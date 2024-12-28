@@ -1,2 +1,5 @@
 requests
 airbyte-cdk
+python-dotenv
+psycopg2-binary
+
