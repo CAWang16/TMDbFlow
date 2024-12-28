@@ -1,0 +1,10 @@
+version: "0.1.0"
+name: "tmdb_api_connector"
+docker_image: "my_tmdb_api_connector"
+streams:
+  - name: popular_movies
+    description: "Pulls data from /movie/popular"
+  - name: top_rated_movies
+    description: "Pulls data from /movie/top_rated"
+  - name: upcoming_movies
+    description: "Pulls data from /movie/upcoming"
