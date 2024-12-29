@@ -17,7 +17,7 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/TMDbFlow.git
+git clone https://github.com/CAWang16/TMDbFlow.git
 cd TMDbFlow
 ```
 
