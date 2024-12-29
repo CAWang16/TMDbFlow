@@ -9,7 +9,7 @@ services:
       POSTGRES_PASSWORD: airflow
       POSTGRES_DB: airflow
     ports:
-      - "5433:5432"  # Avoid port conflicts
+      - "5432:5432"  # Avoid port conflicts
     volumes:
       - my_custom_source_postgres_data:/var/lib/postgresql/data
 
