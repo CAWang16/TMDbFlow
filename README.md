@@ -46,7 +46,7 @@ Ensure Airflow is accessible at [http://localhost:8081](http://localhost:8081).
 Run the extraction script to fetch movie data from TMDb:
 
 ```bash
-python src/extract/source.py
+python airbyte/my_custom_source/dags/Extract_data.py
 ```
 This script will save raw JSON data to `raw_movies.json`.
 
@@ -54,7 +54,7 @@ This script will save raw JSON data to `raw_movies.json`.
 Transform the raw JSON into a clean, structured format:
 
 ```bash
-python src/transform/transform.py
+python airbyte/my_custom_source/dags/Transform_data.py
 ```
 Cleaned data will be saved to `transformed_movies.csv`.
 A separate file `normalized_genres.csv` stores normalized genre data.
@@ -63,13 +63,13 @@ A separate file `normalized_genres.csv` stores normalized genre data.
 If loading to a SQL database:
 
 ```bash
-python src/load/load_to_db.py
+python airbyte/my_custom_source/dags/Load_data.py
 ```
 Ensure database credentials are configured in `load_to_db.py`.
 
 ---
 
-## **Automating with Airflow**
+## **Automating with Airflow(The Following Step)**
 
 Place the DAG file in `airflow/dags/`.
 Restart Airflow to detect new DAGs:
@@ -82,4 +82,61 @@ Trigger the DAG through the Airflow UI at:
 
 ```bash
 http://localhost:8080
+```
+
+## **Difficulties Encountered and Solutions**
+
+### PostgreSQL Connection Issues:
+**Issue:** PostgreSQL refused connections on localhost:5432.
+**Solution:**
+To find the correct connection details, run:
+
+```bash
+docker inspect airflow_postgres
+```
+
+Update the pgAdmin connection to use the container’s IP or ensure PostgreSQL listens on `0.0.0.0` by modifying `postgresql.conf` and `pg_hba.conf`.
+
+---
+
+### Log Files Preventing Git Commit (Invalid argument):
+**Issue:** Git failed to add files in the `logs/scheduler/latest` directory.
+**Solution:**
+Add the following to `.gitignore`:
+
+```bash
+airbyte/my_custom_source/logs/
+```
+
+Clear cached logs if already tracked:
+
+```bash
+git rm --cached -r airbyte/my_custom_source/logs/
+```
+
+---
+
+### Editing PostgreSQL Config Files (pg_hba.conf, postgresql.conf):
+**Issue:** `vi` and `nano` were missing from the Docker container.
+**Solution:**
+Copy the configuration files to the host, edit them, and copy them back to the container:
+
+```bash
+docker cp airflow_postgres:/var/lib/postgresql/data/pg_hba.conf ./pg_hba.conf
+notepad ./pg_hba.conf  # Edit to allow external connections
+docker cp ./pg_hba.conf airflow_postgres:/var/lib/postgresql/data/pg_hba.conf
+docker restart airflow_postgres
+```
+
+---
+
+### Mapping PostgreSQL to the Correct Port:
+**Issue:** PostgreSQL initially exposed port 5433, which caused pgAdmin connection issues.
+**Solution:**
+Update `docker-compose.yml` to map to port 5432:
+
+```yaml
+ports:
+  - "5432:5432"
+```
 ```
