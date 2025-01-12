@@ -44,5 +44,27 @@ print("Movies with future release dates:\n", invalid_dates)
 
 df = df[df['release_date'] <= pd.Timestamp.today() + pd.DateOffset(years=10)]
 
+# 
 popularity_outliers = df[(np.abs(df['popularity'] - df['popularity'].mean()) > (5 * df['popularity'].std()))]
 print("Popularity Outliers:\n", popularity_outliers)
+
+#%% 
+from sqlalchemy import create_engine
+
+# Database connection details (adjust for your Docker setup)
+db_host = "localhost"  # or the Docker container name if using Docker networking
+db_port = "5433"
+db_name = "airflow"
+db_user = "airflow"
+db_password = "airflow"
+
+# Create SQLAlchemy engine
+engine = create_engine(f'postgresql://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}')
+
+# Define table name
+table_name = 'popular_movies'
+
+# Load DataFrame into PostgreSQL
+df.to_sql(table_name, engine, if_exists='replace', index=False)
+
+print(f"Data successfully loaded into '{table_name}' table.")

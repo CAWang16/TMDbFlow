@@ -139,4 +139,3 @@ Update `docker-compose.yml` to map to port 5432:
 ports:
   - "5432:5432"
 ```
-```

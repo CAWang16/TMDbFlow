@@ -1,0 +1,2687 @@
+[
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "release_date": "2024-12-19",
+        "popularity": 4090.605,
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "vote_average": 7.647,
+        "vote_count": 488,
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 839033,
+        "title": "The Lord of the Rings: The War of the Rohirrim",
+        "release_date": "2024-12-05",
+        "popularity": 1783.574,
+        "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+        "vote_average": 6.5,
+        "vote_count": 292,
+        "genre_ids": [
+            16,
+            14,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "release_date": "2024-01-30",
+        "popularity": 1220.626,
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "vote_average": 8.4,
+        "vote_count": 689,
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1035048,
+        "title": "Elevation",
+        "release_date": "2024-11-07",
+        "popularity": 1237.296,
+        "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+        "vote_average": 6.3,
+        "vote_count": 313,
+        "genre_ids": [
+            28,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "release_date": "2024-12-11",
+        "popularity": 1068.515,
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "vote_average": 6.5,
+        "vote_count": 116,
+        "genre_ids": [
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "release_date": "2024-09-12",
+        "popularity": 794.457,
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "vote_average": 8.4,
+        "vote_count": 3905,
+        "genre_ids": [
+            16,
+            28,
+            878,
+            10751
+        ]
+    },
+    {
+        "id": 426063,
+        "title": "Nosferatu",
+        "release_date": "2024-12-25",
+        "popularity": 792.238,
+        "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+        "vote_average": 6.8,
+        "vote_count": 844,
+        "genre_ids": [
+            18,
+            14,
+            27
+        ]
+    },
+    {
+        "id": 974453,
+        "title": "Absolution",
+        "release_date": "2024-10-31",
+        "popularity": 762.837,
+        "overview": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn’t done with him and won’t loosen their grip willingly.",
+        "vote_average": 5.88,
+        "vote_count": 242,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ]
+    },
+    {
+        "id": 1138194,
+        "title": "Heretic",
+        "release_date": "2024-10-31",
+        "popularity": 674.222,
+        "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
+        "vote_average": 7.2,
+        "vote_count": 812,
+        "genre_ids": [
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1013850,
+        "title": "A Real Pain",
+        "release_date": "2024-11-01",
+        "popularity": 518.299,
+        "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
+        "vote_average": 6.68,
+        "vote_count": 153,
+        "genre_ids": [
+            35,
+            18
+        ]
+    },
+    {
+        "id": 728949,
+        "title": "Nightbitch",
+        "release_date": "2024-12-06",
+        "popularity": 524.145,
+        "overview": "A woman, thrown into the stay-at-home routine of raising a toddler in the suburbs, slowly embraces the feral power deeply rooted in motherhood, as she becomes increasingly aware of the bizarre and undeniable signs that she may be turning into a dog.",
+        "vote_average": 6.3,
+        "vote_count": 74,
+        "genre_ids": [
+            35,
+            27
+        ]
+    },
+    {
+        "id": 1064213,
+        "title": "Anora",
+        "release_date": "2024-10-14",
+        "popularity": 422.573,
+        "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+        "vote_average": 6.9,
+        "vote_count": 693,
+        "genre_ids": [
+            10749,
+            35,
+            18
+        ]
+    },
+    {
+        "id": 604685,
+        "title": "Den of Thieves 2: Pantera",
+        "release_date": "2025-01-08",
+        "popularity": 370.819,
+        "overview": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
+        "vote_average": 6.389,
+        "vote_count": 9,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ]
+    },
+    {
+        "id": 1029235,
+        "title": "Azrael",
+        "release_date": "2024-09-27",
+        "popularity": 462.682,
+        "overview": "In a world where no one speaks, a devout female hunts down a young woman who has escaped her imprisonment. Recaptured by its ruthless leaders, Azrael is due to be sacrificed to pacify an ancient evil deep within the surrounding wilderness.",
+        "vote_average": 6.1,
+        "vote_count": 176,
+        "genre_ids": [
+            28,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 974576,
+        "title": "Conclave",
+        "release_date": "2024-10-25",
+        "popularity": 336.832,
+        "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+        "vote_average": 7.157,
+        "vote_count": 777,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1196470,
+        "title": "Survive",
+        "release_date": "2024-06-19",
+        "popularity": 308.188,
+        "overview": "A couple celebrates their son’s birthday in the middle of the ocean on their boat. A violent storm hits and it brings up hungry creatures from the depths and they fight for their survival.",
+        "vote_average": 5.9,
+        "vote_count": 98,
+        "genre_ids": [
+            878,
+            53,
+            12,
+            28
+        ]
+    },
+    {
+        "id": 1064028,
+        "title": "Subservience",
+        "release_date": "2024-08-15",
+        "popularity": 292.095,
+        "overview": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+        "vote_average": 6.756,
+        "vote_count": 531,
+        "genre_ids": [
+            878,
+            53
+        ]
+    },
+    {
+        "id": 1084736,
+        "title": "The Count of Monte Cristo",
+        "release_date": "2024-06-28",
+        "popularity": 307.023,
+        "overview": "Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.",
+        "vote_average": 8.095,
+        "vote_count": 1234,
+        "genre_ids": [
+            28,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 1097549,
+        "title": "Babygirl",
+        "release_date": "2024-12-25",
+        "popularity": 278.399,
+        "overview": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.",
+        "vote_average": 5.6,
+        "vote_count": 52,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1100099,
+        "title": "We Live in Time",
+        "release_date": "2024-10-10",
+        "popularity": 285.248,
+        "overview": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+        "vote_average": 7.5,
+        "vote_count": 425,
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 978796,
+        "title": "Bagman",
+        "release_date": "2024-09-20",
+        "popularity": 288.197,
+        "overview": "For centuries and across cultures, parents have warned their children of the legendary Bagman, who snatches innocent children and stuffs them into his vile, rotting bag—never to be seen again. Patrick McKee narrowly escaped such an encounter as a boy, which left him with lasting scars throughout his adulthood. Now, Patrick’s childhood tormentor has returned, threatening the safety of his wife Karina and son Jake.",
+        "vote_average": 6.377,
+        "vote_count": 162,
+        "genre_ids": [
+            27,
+            53
+        ]
+    },
+    {
+        "id": 975511,
+        "title": "The Return",
+        "release_date": "2024-09-07",
+        "popularity": 266.593,
+        "overview": "After twenty years away, Odysseus washes up on the shores of Ithaca, haggard and unrecognizable. The king has finally returned home, but much has changed in his kingdom since he left to fight in the Trojan war.",
+        "vote_average": 6.708,
+        "vote_count": 65,
+        "genre_ids": [
+            36,
+            18,
+            12
+        ]
+    },
+    {
+        "id": 1106739,
+        "title": "Juror #2",
+        "release_date": "2024-10-30",
+        "popularity": 182.927,
+        "overview": "While serving as a juror in a high profile murder trial, family man Justin Kemp finds himself struggling with a serious moral dilemma…one he could use to sway the jury verdict and potentially convict—or free—the accused killer.",
+        "vote_average": 7.0,
+        "vote_count": 1115,
+        "genre_ids": [
+            80,
+            18
+        ]
+    },
+    {
+        "id": 974950,
+        "title": "Emilia Pérez",
+        "release_date": "2024-08-21",
+        "popularity": 241.584,
+        "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
+        "vote_average": 7.826,
+        "vote_count": 642,
+        "genre_ids": [
+            18,
+            53
+        ]
+    },
+    {
+        "id": 976576,
+        "title": "Emmanuelle",
+        "release_date": "2024-09-25",
+        "popularity": 174.545,
+        "overview": "A young woman embarks on a series of sexual adventures with a series of men and women against the backdrop of expatriate life in Hong Kong.",
+        "vote_average": 5.0,
+        "vote_count": 25,
+        "genre_ids": [
+            18,
+            10749
+        ]
+    },
+    {
+        "id": 1014505,
+        "title": "OVERLORD: The Sacred Kingdom",
+        "release_date": "2024-09-20",
+        "popularity": 194.43,
+        "overview": "After twelve years of playing his favorite MMORPG game, Momonga logs in for the last time only to find himself transported into its world playing it indefinitely. Throughout his adventures, his avatar ascends to the title of Sorcerer King Ains Ooal Gown. Once prosperous but now on the brink of ruin, The Sacred Kingdom enjoyed years of peace after construction of an enormous wall protecting them from neighboring invasions. But, one day this comes to an end when the Demon Emperor Jaldabaoth arrives with an army of villainous demi-humans. Fearing invasion of their own lands, the neighboring territory of the Slane Theocracy is forced to beg their enemies at the Sorcerer Kingdom for help. Heeding the call, Momonga, now known as the Sorcerer King Ains Ooal Gown, rallies the Sorcerer Kingdom and its undead army to join the fight alongside the Sacred Kingdom and the Slane Theocracy in hopes to defeat the Demon Emperor.",
+        "vote_average": 7.8,
+        "vote_count": 29,
+        "genre_ids": [
+            28,
+            12,
+            16,
+            14
+        ]
+    },
+    {
+        "id": 1154304,
+        "title": "Buffalo Kids",
+        "release_date": "2024-08-14",
+        "popularity": 182.411,
+        "overview": "Mary and Tom are parentless Irish siblings who arrive in New York City via ocean liner in 1886 and quickly find themselves on a wild, cross-country journey aboard a transcontinental \"Orphan Train\" where they meet an extraordinary new friend who will change their lives forever.",
+        "vote_average": 6.8,
+        "vote_count": 18,
+        "genre_ids": [
+            16,
+            12,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 588648,
+        "title": "Dragonkeeper",
+        "release_date": "2024-04-11",
+        "popularity": 175.127,
+        "overview": "Set in Han Imperial China, the plot follows the adventures of enslaved girl Ping with ancient dragon Long Danzi. Dragons had been banished from the kingdom. Ping, an orphan, finds one of the last remaining dragon eggs. Palace guards force Ping to run away in order to return the dragon egg to the ocean and save all dragons from extinction. Ping discovers that she is a true Dragonkeeper.",
+        "vote_average": 7.6,
+        "vote_count": 165,
+        "genre_ids": [
+            28,
+            12,
+            16,
+            10751,
+            14
+        ]
+    },
+    {
+        "id": 807,
+        "title": "Se7en",
+        "release_date": "1995-09-22",
+        "popularity": 137.528,
+        "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Sommerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+        "vote_average": 8.4,
+        "vote_count": 21209,
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ]
+    },
+    {
+        "id": 1029281,
+        "title": "Strange Darling",
+        "release_date": "2024-08-22",
+        "popularity": 192.187,
+        "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+        "vote_average": 6.91,
+        "vote_count": 327,
+        "genre_ids": [
+            80,
+            27,
+            53
+        ]
+    },
+    {
+        "id": 940721,
+        "title": "Godzilla Minus One",
+        "release_date": "2023-11-03",
+        "popularity": 92.303,
+        "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+        "vote_average": 7.57,
+        "vote_count": 2436,
+        "genre_ids": [
+            878,
+            27,
+            28
+        ]
+    },
+    {
+        "id": 1232449,
+        "title": "Young Hearts",
+        "release_date": "2024-10-26",
+        "popularity": 124.098,
+        "overview": "Fourteen-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.",
+        "vote_average": 8.4,
+        "vote_count": 29,
+        "genre_ids": [
+            18,
+            10749
+        ]
+    },
+    {
+        "id": 1216191,
+        "title": "Oddity",
+        "release_date": "2024-07-19",
+        "popularity": 154.281,
+        "overview": "After the brutal murder of her twin sister, Darcy goes after those responsible by using haunted items as her tools for revenge.",
+        "vote_average": 6.805,
+        "vote_count": 331,
+        "genre_ids": [
+            27,
+            9648
+        ]
+    },
+    {
+        "id": 1038263,
+        "title": "Maria",
+        "release_date": "2024-11-27",
+        "popularity": 100.807,
+        "overview": "Maria Callas, the world's greatest opera singer, lives the last days of her life in 1970s Paris, as she confronts her identity and life.",
+        "vote_average": 6.847,
+        "vote_count": 124,
+        "genre_ids": [
+            18,
+            10402
+        ]
+    },
+    {
+        "id": 1079244,
+        "title": "Bonhoeffer: Pastor. Spy. Assassin",
+        "release_date": "2024-11-20",
+        "popularity": 101.775,
+        "overview": "As the world teeters on the brink of annihilation, Dietrich Bonhoeffer joins a deadly plot to assassinate Hitler, risking his faith and fate to save millions of Jews from genocide.",
+        "vote_average": 6.975,
+        "vote_count": 20,
+        "genre_ids": [
+            18,
+            36,
+            10752
+        ]
+    },
+    {
+        "id": 549509,
+        "title": "The Brutalist",
+        "release_date": "2024-12-20",
+        "popularity": 108.704,
+        "overview": "Escaping post-war Europe, visionary architect László Tóth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
+        "vote_average": 5.8,
+        "vote_count": 22,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1128650,
+        "title": "The Prosecutor",
+        "release_date": "2024-12-08",
+        "popularity": 109.411,
+        "overview": "A poor young man is wrongly charged with drug trafficking after being deceived. An ex-prosecutor investigates the case, uncovers a corrupt lawyer team's scheme.",
+        "vote_average": 7.9,
+        "vote_count": 7,
+        "genre_ids": [
+            80,
+            28,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 923667,
+        "title": "Twilight of the Warriors: Walled In",
+        "release_date": "2024-04-23",
+        "popularity": 109.487,
+        "overview": "In 1980s Hong Kong, troubled youth Chan Lok-kwun, a mainland refugee, struggles to survive in the Kowloon Walled City by joining underground fights. Betrayed by crime boss Mr. Big while trying to buy a fake ID, he steals drugs from him and seeks refuge in the Walled City, where he encounters Cyclone, a compassionate yet authoritative crime lord.",
+        "vote_average": 7.0,
+        "vote_count": 288,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ]
+    },
+    {
+        "id": 567811,
+        "title": "10 Lives",
+        "release_date": "2024-04-18",
+        "popularity": 114.177,
+        "overview": "A pampered cat takes for granted the lucky hand he has been dealt after he is rescued and loved by Rose, a kind-hearted and passionate student. When he loses his ninth life, fate steps in to set him on a transformative journey.",
+        "vote_average": 7.9,
+        "vote_count": 158,
+        "genre_ids": [
+            16,
+            35,
+            10751,
+            14
+        ]
+    },
+    {
+        "id": 516729,
+        "title": "Paddington in Peru",
+        "release_date": "2024-11-08",
+        "popularity": 85.142,
+        "overview": "Paddington travels to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown Family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey through the Amazon rainforest and up to the mountain peaks of Peru.",
+        "vote_average": 7.5,
+        "vote_count": 39,
+        "genre_ids": [
+            35,
+            10751,
+            12
+        ]
+    },
+    {
+        "id": 832964,
+        "title": "Lee",
+        "release_date": "2024-09-12",
+        "popularity": 79.174,
+        "overview": "The true story of photographer Elizabeth \"Lee\" Miller, a fashion model who became an acclaimed war correspondent for Vogue magazine during World War II.",
+        "vote_average": 7.13,
+        "vote_count": 265,
+        "genre_ids": [
+            36,
+            18,
+            10752
+        ]
+    },
+    {
+        "id": 1084199,
+        "title": "Companion",
+        "release_date": "2025-01-10",
+        "popularity": 84.924,
+        "overview": "After being invited to a weekend trip at her new beau's lakeside estate, Iris uncovers a terrible secret.",
+        "vote_average": 7.0,
+        "vote_count": 3,
+        "genre_ids": [
+            27,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 710295,
+        "title": "Wolf Man",
+        "release_date": "2025-01-15",
+        "popularity": 79.11,
+        "overview": "With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable.",
+        "vote_average": 7.2,
+        "vote_count": 2,
+        "genre_ids": [
+            27,
+            53
+        ]
+    },
+    {
+        "id": 646683,
+        "title": "The Exorcism",
+        "release_date": "2024-05-30",
+        "popularity": 83.025,
+        "overview": "A troubled actor begins to unravel while shooting a supernatural horror film, leading his estranged daughter to wonder if he's slipping back into his past addictions or if there's something more sinister at play.",
+        "vote_average": 5.1,
+        "vote_count": 281,
+        "genre_ids": [
+            27,
+            53
+        ]
+    },
+    {
+        "id": 799766,
+        "title": "Better Man",
+        "release_date": "2024-12-14",
+        "popularity": 78.772,
+        "overview": "Follow Robbie Williams' journey from childhood, to being the youngest member of chart-topping boyband Take That, through to his unparalleled achievements as a record-breaking solo artist – all the while confronting the challenges that stratospheric fame and success can bring.",
+        "vote_average": 7.6,
+        "vote_count": 55,
+        "genre_ids": [
+            10402,
+            35,
+            18
+        ]
+    },
+    {
+        "id": 1126166,
+        "title": "Flight Risk",
+        "release_date": "2025-01-22",
+        "popularity": 79.804,
+        "overview": "A pilot transports an Air Marshal accompanying a fugitive to trial. As they go across the Alaskan wilderness, tensions soar and trust is tested as not everyone on board is who they seem.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            53
+        ]
+    },
+    {
+        "id": 661539,
+        "title": "A Complete Unknown",
+        "release_date": "2024-12-18",
+        "popularity": 77.576,
+        "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
+        "vote_average": 7.825,
+        "vote_count": 40,
+        "genre_ids": [
+            18,
+            10402,
+            36
+        ]
+    },
+    {
+        "id": 280,
+        "title": "Terminator 2: Judgment Day",
+        "release_date": "1991-07-03",
+        "popularity": 80.441,
+        "overview": "Set ten years after the events of the original, James Cameron’s classic sci-fi action flick tells the story of a second attempt to get rid of rebellion leader John Connor, this time targeting the boy himself. However, the rebellion has sent a reprogrammed terminator to protect Connor.",
+        "vote_average": 8.118,
+        "vote_count": 12994,
+        "genre_ids": [
+            28,
+            53,
+            878
+        ]
+    },
+    {
+        "id": 989662,
+        "title": "A Different Man",
+        "release_date": "2024-08-24",
+        "popularity": 68.235,
+        "overview": "Aspiring actor Edward undergoes a radical medical procedure to drastically transform his appearance. But his new dream face quickly turns into a nightmare, as he loses out on the role he was born to play and becomes obsessed with reclaiming what was lost.",
+        "vote_average": 7.079,
+        "vote_count": 120,
+        "genre_ids": [
+            35,
+            18
+        ]
+    },
+    {
+        "id": 1225377,
+        "title": "The Mouse Trap",
+        "release_date": "2024-08-23",
+        "popularity": 69.285,
+        "overview": "It's Alex's 21st Birthday, but she's stuck at the amusement arcade on a late shift so her friends decide to surprise her, but a masked killer dressed as Mickey Mouse decides to play a game of his own with them which she must survive.",
+        "vote_average": 4.1,
+        "vote_count": 53,
+        "genre_ids": [
+            27,
+            53
+        ]
+    },
+    {
+        "id": 940139,
+        "title": "Here",
+        "release_date": "2024-10-30",
+        "popularity": 69.027,
+        "overview": "An odyssey through time and memory, centered around a place in New England where—from wilderness, and then, later, from a home—love, loss, struggle, hope and legacy play out between couples and families over generations.",
+        "vote_average": 6.551,
+        "vote_count": 147,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1059264,
+        "title": "The Inseparables",
+        "release_date": "2023-09-01",
+        "popularity": 68.562,
+        "overview": "The animated buddy movie follows the misadventures of Don, a runaway puppet with boundless imaginations, and DJ Doggy Dog, an abandoned plush looking for a friend, who cross paths in Central Park and team up against all odds for a epic friendship adventure in New York.",
+        "vote_average": 6.4,
+        "vote_count": 40,
+        "genre_ids": [
+            16,
+            12,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 1082195,
+        "title": "The Order",
+        "release_date": "2024-12-05",
+        "popularity": 57.817,
+        "overview": "A string of violent robberies in the Pacific Northwest leads a veteran FBI agent into a domestic terrorist plot to overthrow the federal government.",
+        "vote_average": 6.8,
+        "vote_count": 111,
+        "genre_ids": [
+            80,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 1059128,
+        "title": "Queer",
+        "release_date": "2024-11-27",
+        "popularity": 58.046,
+        "overview": "In 1950s Mexico City, William Lee, an American expat in his late forties, leads a solitary life amidst a small American community. However, the arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection with someone.",
+        "vote_average": 6.8,
+        "vote_count": 37,
+        "genre_ids": [
+            18,
+            10749
+        ]
+    },
+    {
+        "id": 1182047,
+        "title": "The Apprentice",
+        "release_date": "2024-10-09",
+        "popularity": 54.39,
+        "overview": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
+        "vote_average": 6.928,
+        "vote_count": 326,
+        "genre_ids": [
+            18,
+            36
+        ]
+    },
+    {
+        "id": 9340,
+        "title": "The Goonies",
+        "release_date": "1985-06-07",
+        "popularity": 56.073,
+        "overview": "A young teenager named Mikey Walsh finds an old treasure map in his father's attic. Hoping to save their homes from demolition, Mikey and his friends Data Wang, Chunk Cohen, and Mouth Devereaux run off on a big quest to find the secret stash of Pirate One-Eyed Willie.",
+        "vote_average": 7.515,
+        "vote_count": 5722,
+        "genre_ids": [
+            12,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 1102493,
+        "title": "Small Things Like These",
+        "release_date": "2024-11-01",
+        "popularity": 65.759,
+        "overview": "In 1985, while working as a coal merchant to support his family, Bill Furlong discovers disturbing secrets kept by the local convent and uncovers truths of his own; forcing him to confront his past and the complicit silence of a small Irish town controlled by the Catholic Church.",
+        "vote_average": 6.9,
+        "vote_count": 140,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1292359,
+        "title": "Hello, Love, Again",
+        "release_date": "2024-11-13",
+        "popularity": 64.477,
+        "overview": "Five years on from when Joy said goodbye to Ethan and Hong Kong to pursue her dreams in Canada. After fighting for their love to conquer the time, distance and a global shutdown that kept them apart, Joy and Ethan meet again in Canada but realize that they have also changed a lot, individually.",
+        "vote_average": 7.0,
+        "vote_count": 6,
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1088514,
+        "title": "The Room Next Door",
+        "release_date": "2024-10-07",
+        "popularity": 61.507,
+        "overview": "Ingrid and Martha were close friends in their youth, when they worked together at the same magazine. Ingrid went on to become an autofiction novelist while Martha became a war reporter, and they were separated by the circumstances of life. After years of being out of touch, they meet again in an extreme but strangely sweet situation.",
+        "vote_average": 7.158,
+        "vote_count": 171,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1228681,
+        "title": "Sex",
+        "release_date": "2024-08-30",
+        "popularity": 44.476,
+        "overview": "Two men in heterosexual marriages whose unexpected experiences challenge their perceptions of sexuality, gender and identity.",
+        "vote_average": 6.6,
+        "vote_count": 4,
+        "genre_ids": [
+            18,
+            10749
+        ]
+    },
+    {
+        "id": 858017,
+        "title": "I Saw the TV Glow",
+        "release_date": "2024-05-03",
+        "popularity": 46.835,
+        "overview": "Teenager Owen is just trying to make it through life in the suburbs when his classmate Maddy introduces him to a mysterious late-night TV show — a vision of a supernatural world beneath their own. In the pale glow of the television, Owen’s view of reality begins to crack.",
+        "vote_average": 6.1,
+        "vote_count": 366,
+        "genre_ids": [
+            18,
+            27
+        ]
+    },
+    {
+        "id": 1093995,
+        "title": "Chief of Station",
+        "release_date": "2024-05-02",
+        "popularity": 48.502,
+        "overview": "After learning that the death of his wife was not an accident, a former CIA Station Chief is forced back into the espionage underworld, teaming up with an adversary to unravel a conspiracy that challenges everything he thought he knew.",
+        "vote_average": 6.2,
+        "vote_count": 166,
+        "genre_ids": [
+            28,
+            53
+        ]
+    },
+    {
+        "id": 926670,
+        "title": "Henry Danger: The Movie",
+        "release_date": "2025-01-17",
+        "popularity": 56.309,
+        "overview": "Henry Hart meets a superfan—eager to fight crime with Kid Danger—who comes into possession of a device that can open up alternate realities. Facing a wild ride, Henry will need his best friend Jasper and his new superfan sidekick to find his way out or be stuck in another dimension forever.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            28,
+            35,
+            10751,
+            878
+        ]
+    },
+    {
+        "id": 1164355,
+        "title": "Lembayung",
+        "release_date": "2024-09-19",
+        "popularity": 64.855,
+        "overview": "Arum and Pica, who wanted to complete their internship at Lembayung hospital, had to face mysterious terror from a woman satan who was suspected of hanged herself in the bathroom. The situation became even more tense after they asked others for help to the point where they threatened their own lives and those closest to them.",
+        "vote_average": 7.3,
+        "vote_count": 5,
+        "genre_ids": [
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1180629,
+        "title": "Kneecap",
+        "release_date": "2024-08-02",
+        "popularity": 43.146,
+        "overview": "When fate brings Belfast teacher JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og, the needle drops on a hip hop act like no other. Rapping in their native Irish, they lead a movement to save their mother tongue.",
+        "vote_average": 6.9,
+        "vote_count": 88,
+        "genre_ids": [
+            35,
+            18,
+            10402
+        ]
+    },
+    {
+        "id": 1120911,
+        "title": "Saturday Night",
+        "release_date": "2024-09-27",
+        "popularity": 39.968,
+        "overview": "At 11:30pm on October 11, 1975, a ferocious troupe of young comedians and writers changed television forever. This is the story of what happened behind the scenes in the 90 minutes leading up to the first broadcast of Saturday Night Live.",
+        "vote_average": 6.9,
+        "vote_count": 140,
+        "genre_ids": [
+            35,
+            18
+        ]
+    },
+    {
+        "id": 1128752,
+        "title": "Bird",
+        "release_date": "2024-11-08",
+        "popularity": 32.699,
+        "overview": "12-year-old Bailey lives with her single dad Bug and brother Hunter in a squat in North Kent. Bug doesn’t have much time for his kids, and Bailey, who is approaching puberty, seeks attention and adventure elsewhere.",
+        "vote_average": 7.3,
+        "vote_count": 47,
+        "genre_ids": [
+            18,
+            14
+        ]
+    },
+    {
+        "id": 1000837,
+        "title": "I'm Still Here",
+        "release_date": "2024-09-19",
+        "popularity": 55.401,
+        "overview": "In the early 1970s, the military dictatorship in Brazil reaches its height. The Paiva family - Rubens, Eunice, and their five children - live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
+        "vote_average": 8.8,
+        "vote_count": 115,
+        "genre_ids": [
+            18,
+            36
+        ]
+    },
+    {
+        "id": 744857,
+        "title": "When Evil Lurks",
+        "release_date": "2023-10-05",
+        "popularity": 45.482,
+        "overview": "Residents of a small rural town discover that a demon is about to be born among them. They desperately try to escape before the evil is born, but it may be too late.",
+        "vote_average": 7.305,
+        "vote_count": 1046,
+        "genre_ids": [
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1323784,
+        "title": "Bad Influence",
+        "release_date": "2025-01-24",
+        "popularity": 47.161,
+        "overview": "A poor boy and a pampered rich girl seek to uncover secrets of the past to save their romance and their skin.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18,
+            53,
+            10749
+        ]
+    },
+    {
+        "id": 774370,
+        "title": "Dog Man",
+        "release_date": "2025-01-30",
+        "popularity": 42.235,
+        "overview": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve—and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            10751,
+            16,
+            35,
+            28,
+            12
+        ]
+    },
+    {
+        "id": 1064486,
+        "title": "Memoir of a Snail",
+        "release_date": "2024-10-17",
+        "popularity": 56.626,
+        "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+        "vote_average": 7.9,
+        "vote_count": 67,
+        "genre_ids": [
+            16,
+            18,
+            35
+        ]
+    },
+    {
+        "id": 983044,
+        "title": "The Arctic Convoy",
+        "release_date": "2023-12-25",
+        "popularity": 44.096,
+        "overview": "In 1942, a convoy of 35 civilian ships, carrying vital supplies from Iceland to the Soviet Union, faces deadly challenges in the Arctic. Despite Allied naval escort, catastrophic intelligence errors expose the convoy to relentless German air and naval attacks. In the brutal conditions, inexperienced civilian sailors fight for survival, with only 12 ships making it to their destination.",
+        "vote_average": 6.7,
+        "vote_count": 72,
+        "genre_ids": [
+            10752,
+            18
+        ]
+    },
+    {
+        "id": 1103621,
+        "title": "How to Make Millions Before Grandma Dies",
+        "release_date": "2024-04-04",
+        "popularity": 40.412,
+        "overview": "M, a university dropout low on money and luck, volunteers to take care of his terminally ill grandmother, in the hope of pocketing an inheritance.",
+        "vote_average": 8.0,
+        "vote_count": 99,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1195631,
+        "title": "William Tell",
+        "release_date": "2025-01-10",
+        "popularity": 26.347,
+        "overview": "The narrative unfolds in the 14th Century, when the European nations vie for supremacy within the Holy Roman Empire. The ambitious Austrian Empire, desiring more land, invades neighbouring Switzerland, a serene and pastoral nation. Protagonist William Tell, a formerly peaceful hunter, finds himself forced to take action as his family and homeland come under threat from the oppressive Austrian King and his ruthless warlords.",
+        "vote_average": 1.0,
+        "vote_count": 1,
+        "genre_ids": [
+            28,
+            18
+        ]
+    },
+    {
+        "id": 9350,
+        "title": "Cliffhanger",
+        "release_date": "1993-05-28",
+        "popularity": 37.215,
+        "overview": "A year after losing his friend in a tragic 4,000-foot fall, former ranger Gabe Walker and his partner, Hal, are called to return to the same peak to rescue a group of stranded climbers, only to learn the climbers are actually thieving hijackers who are looking for boxes full of money.",
+        "vote_average": 6.505,
+        "vote_count": 2380,
+        "genre_ids": [
+            28,
+            12,
+            53
+        ]
+    },
+    {
+        "id": 508642,
+        "title": "Gonjiam: Haunted Asylum",
+        "release_date": "2018-03-28",
+        "popularity": 36.565,
+        "overview": "The crew of a horror web series travels to an abandoned asylum for a live broadcast, but they encounter much more than expected as they move deeper inside the nightmarish old building.",
+        "vote_average": 7.267,
+        "vote_count": 694,
+        "genre_ids": [
+            27,
+            9648
+        ]
+    },
+    {
+        "id": 634,
+        "title": "Bridget Jones's Diary",
+        "release_date": "2001-04-13",
+        "popularity": 40.048,
+        "overview": "Bridget Jones is an average woman struggling against her age, her weight, her job, her lack of a man, and her various imperfections. As a New Year's resolution, Bridget decides to take control of her life, starting by keeping a diary in which she will always tell the complete truth. The fireworks begin when her charming though disreputable boss takes an interest in the quirky Miss Jones. Thrown into the mix are Bridget's band of slightly eccentric friends and a rather disagreeable acquaintance into whom Bridget cannot seem to stop running or help finding quietly attractive.",
+        "vote_average": 6.7,
+        "vote_count": 5055,
+        "genre_ids": [
+            35,
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1290954,
+        "title": "Rekhachithram",
+        "release_date": "2025-01-09",
+        "popularity": 25.953,
+        "overview": "Having recently served a suspension for gambling online while on duty, Circle Inspector Vivek Gopinath rejoins the police force and is looking to reclaim his lost honour. Awaiting him is a 40-year-old, unresolved murder mystery with a faceless victim.",
+        "vote_average": 5.0,
+        "vote_count": 3,
+        "genre_ids": [
+            9648,
+            53
+        ]
+    },
+    {
+        "id": 1155281,
+        "title": "Creation of the Gods II: Demonic Confrontation",
+        "release_date": "2025-01-29",
+        "popularity": 51.1,
+        "overview": "",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            28,
+            14,
+            10752
+        ]
+    },
+    {
+        "id": 1236419,
+        "title": "Piece by Piece",
+        "release_date": "2024-10-10",
+        "popularity": 31.491,
+        "overview": "A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams. Told through the lens of LEGO® animation, turn up the volume on your imagination and witness the evolution of one of music's most innovative minds.",
+        "vote_average": 7.6,
+        "vote_count": 71,
+        "genre_ids": [
+            16,
+            10402,
+            99
+        ]
+    },
+    {
+        "id": 11101,
+        "title": "Stalingrad",
+        "release_date": "1993-01-20",
+        "popularity": 29.787,
+        "overview": "A German Platoon is explored through the brutal fighting of the Battle of Stalingrad. After half of their number is wiped out and they're placed under the command of a sadistic captain, the platoon lieutenant leads his men to desert. The platoon members attempt escape from the city, now surrounded by the Soviet Army.",
+        "vote_average": 7.322,
+        "vote_count": 551,
+        "genre_ids": [
+            18,
+            36,
+            10752
+        ]
+    },
+    {
+        "id": 927547,
+        "title": "All We Imagine as Light",
+        "release_date": "2024-09-21",
+        "popularity": 37.78,
+        "overview": "In Mumbai, Nurse Prabha's routine is troubled when she receives an unexpected gift from her estranged husband. Her younger roommate, Anu, tries in vain to find a spot in the city to be intimate with her boyfriend. A trip to a beach town allows them to find a space for their desires to manifest.",
+        "vote_average": 7.0,
+        "vote_count": 78,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 934866,
+        "title": "Bad Genius",
+        "release_date": "2024-09-12",
+        "popularity": 36.051,
+        "overview": "A highly-gifted student sees an opportunity to escape her roots by helping wealthy classmates cheat on key exams, but at great risk to her future.",
+        "vote_average": 6.4,
+        "vote_count": 39,
+        "genre_ids": [
+            18,
+            53
+        ]
+    },
+    {
+        "id": 993710,
+        "title": "Back in Action",
+        "release_date": "2025-01-17",
+        "popularity": 42.457,
+        "overview": "Years after giving up life as CIA spies to start a family, Emily and Matt are pulled back into the world of espionage when their cover is blown.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            28,
+            35
+        ]
+    },
+    {
+        "id": 1109255,
+        "title": "Parthenope",
+        "release_date": "2024-10-19",
+        "popularity": 40.634,
+        "overview": "Parthenope, born in the sea near Naples in 1950, is beautiful, enigmatic, and intelligent. She is shamelessly courted by many. However, beauty comes at a cost.",
+        "vote_average": 7.1,
+        "vote_count": 280,
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 959604,
+        "title": "Beating Hearts",
+        "release_date": "2024-10-16",
+        "popularity": 25.614,
+        "overview": "Raised in a troublesome neighbourhood, local rebellious teenager Clotaire falls for his schoolmate Jackie, charmed by her fearless spirit and sharp wit. As powerful first love blossoms between the two, rampant gang violence entices him into a much darker path and ultimately destroys all they have built when he is charged with a crime he didn’t commit. After many years apart, now leading profoundly different lives, the star-crossed lovers discover that every path they’ve taken leads them back together, but will love triumph over Clotaire's quest for revenge?",
+        "vote_average": 7.6,
+        "vote_count": 497,
+        "genre_ids": [
+            10749,
+            80
+        ]
+    },
+    {
+        "id": 1020896,
+        "title": "Handling the Undead",
+        "release_date": "2024-02-09",
+        "popularity": 38.904,
+        "overview": "On a hot summer day in Oslo, the dead mysteriously awaken, and three families are thrown into chaos when their deceased loved ones come back to them. Who are they, and what do they want?",
+        "vote_average": 6.0,
+        "vote_count": 124,
+        "genre_ids": [
+            27,
+            18,
+            9648
+        ]
+    },
+    {
+        "id": 1155828,
+        "title": "Sing Sing",
+        "release_date": "2024-07-12",
+        "popularity": 31.78,
+        "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
+        "vote_average": 7.4,
+        "vote_count": 50,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1294311,
+        "title": "Kardeş Takımı 2",
+        "release_date": "2025-01-10",
+        "popularity": 22.013,
+        "overview": "",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            10751,
+            35
+        ]
+    },
+    {
+        "id": 1128559,
+        "title": "Super/Man: The Christopher Reeve Story",
+        "release_date": "2024-09-21",
+        "popularity": 30.691,
+        "overview": "Christopher Reeve portrayed the Man of Steel in four Superman films and played dozens of other roles that displayed his talent and range as an actor, before being injured in a near-fatal horse-riding accident in 1995 that left him paralyzed from the neck down. After becoming a quadriplegic, he became a charismatic leader and activist in the quest to find a cure for spinal cord injuries, as well as a passionate advocate for disability rights and care.",
+        "vote_average": 8.3,
+        "vote_count": 117,
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1152014,
+        "title": "A Little Something Extra",
+        "release_date": "2024-04-18",
+        "popularity": 37.838,
+        "overview": "To escape the police, a father and his son are forced to find refuge in a summer camp for young adults with mental disabilities, taking on the role of an educator and a boarder. The beginning of troubles and a wonderful human experience that will change them forever.",
+        "vote_average": 7.119,
+        "vote_count": 654,
+        "genre_ids": [
+            35
+        ]
+    },
+    {
+        "id": 1278263,
+        "title": "The Seed of the Sacred Fig",
+        "release_date": "2024-09-18",
+        "popularity": 26.631,
+        "overview": "An investigating judge in the Revolutionary Court in Tehran grapples with mistrust and paranoia as nationwide political protests intensify and his gun mysteriously disappears. Suspecting the involvement of his wife and their two daughters, he imposes drastic measures at home, causing tensions to rise. Step by step, social norms and the rules of family life are being suspended.",
+        "vote_average": 7.6,
+        "vote_count": 122,
+        "genre_ids": [
+            18,
+            53,
+            80
+        ]
+    },
+    {
+        "id": 843416,
+        "title": "Daddio",
+        "release_date": "2024-06-27",
+        "popularity": 24.767,
+        "overview": "A woman taking a cab ride from JFK engages in a conversation with the driver about the important relationships in their lives.",
+        "vote_average": 6.3,
+        "vote_count": 123,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 15370,
+        "title": "The Cat Returns",
+        "release_date": "2002-07-19",
+        "popularity": 29.242,
+        "overview": "Young Haru rescues a cat from being run over, but soon learns it's no ordinary feline; it happens to be the Prince of the Cats.",
+        "vote_average": 7.1,
+        "vote_count": 2220,
+        "genre_ids": [
+            12,
+            14,
+            16,
+            18,
+            10751
+        ]
+    },
+    {
+        "id": 1226406,
+        "title": "Love Hurts",
+        "release_date": "2025-01-31",
+        "popularity": 29.085,
+        "overview": "A realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brother also on his trail, he must confront his past and the history he never fully buried.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            28,
+            35
+        ]
+    },
+    {
+        "id": 1160956,
+        "title": "Panda Plan",
+        "release_date": "2024-10-01",
+        "popularity": 25.239,
+        "overview": "International action star Jackie Chan is invited to the adoption ceremony of a rare baby panda, but after an international crime syndicate attempts to kidnap the bear, Jackie has to save the bear using his stunt work skills.",
+        "vote_average": 5.3,
+        "vote_count": 16,
+        "genre_ids": [
+            28,
+            35
+        ]
+    },
+    {
+        "id": 1290213,
+        "title": "404 Run Run",
+        "release_date": "2024-11-28",
+        "popularity": 33.882,
+        "overview": "Nakrob, a young real estate swindler, discovers an abandoned hillside hotel by the beach. Seeing an opportunity, he decides to turn it into a luxury hotel scam.",
+        "vote_average": 5.0,
+        "vote_count": 2,
+        "genre_ids": [
+            35,
+            27
+        ]
+    },
+    {
+        "id": 652837,
+        "title": "Josee, the Tiger and the Fish",
+        "release_date": "2020-12-25",
+        "popularity": 21.847,
+        "overview": "With dreams of diving abroad, Tsuneo gets a job assisting Josee, an artist whose imagination takes her far beyond her wheelchair. But when the tide turns against them, they push each other to places they never thought possible, and inspire a love fit for a storybook.",
+        "vote_average": 8.287,
+        "vote_count": 474,
+        "genre_ids": [
+            16,
+            18,
+            10749
+        ]
+    },
+    {
+        "id": 610251,
+        "title": "Harbin",
+        "release_date": "2024-12-24",
+        "popularity": 22.526,
+        "overview": "In 1909, several years after Korea is forced into becoming a Japanese colony, freedom fighters plot the daring assassination of Japan’s prime minister during their quest for independence.",
+        "vote_average": 8.5,
+        "vote_count": 2,
+        "genre_ids": [
+            28,
+            53,
+            36,
+            10752
+        ]
+    },
+    {
+        "id": 24961,
+        "title": "The Wiz",
+        "release_date": "1978-10-24",
+        "popularity": 21.007,
+        "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
+        "vote_average": 6.0,
+        "vote_count": 260,
+        "genre_ids": [
+            10402,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1211472,
+        "title": "September 5",
+        "release_date": "2024-12-13",
+        "popularity": 24.952,
+        "overview": "During the 1972 Munich Olympics, an American broadcasting team is thrust from covering sports to reporting a dramatic hostage situation involving Israeli athletes. A young producer, unexpectedly leading the live broadcast, faces difficult decisions as time runs out, rumors spread, and the hostages' lives hang in the balance.",
+        "vote_average": 6.1,
+        "vote_count": 11,
+        "genre_ids": [
+            18,
+            53,
+            36
+        ]
+    },
+    {
+        "id": 978035,
+        "title": "Les Indésirables",
+        "release_date": "2023-12-06",
+        "popularity": 20.062,
+        "overview": "A local activist and a budding young mayor clash over the best path forward for their impoverished suburb.",
+        "vote_average": 6.1,
+        "vote_count": 60,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1140535,
+        "title": "Presence",
+        "release_date": "2025-01-17",
+        "popularity": 19.22,
+        "overview": "A family moves into a suburban house and becomes convinced they’re not alone.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18,
+            27
+        ]
+    },
+    {
+        "id": 9090,
+        "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+        "release_date": "1995-09-07",
+        "popularity": 20.149,
+        "overview": "Manhattan drag queens Vida Boheme and Noxeema Jackson impress regional judges in competition, securing berths in the Nationals in Los Angeles. When the two meet pathetic drag novice Chi-Chi Rodriguez — one of the losers that evening — the charmed Vida and Noxeema agree to take the hopeless youngster under their joined wing. Soon the three set off on a madcap road trip across America and struggle to make it to Los Angeles in time.",
+        "vote_average": 7.3,
+        "vote_count": 657,
+        "genre_ids": [
+            35,
+            18
+        ]
+    },
+    {
+        "id": 628922,
+        "title": "Asphalt City",
+        "release_date": "2024-03-28",
+        "popularity": 22.149,
+        "overview": "A young paramedic is paired with a seasoned partner on the night shift in New York revealing a city in crisis. Discovering the chaos firsthand, he is tested with the ethical ambiguity that can be the difference between life and death.",
+        "vote_average": 6.2,
+        "vote_count": 119,
+        "genre_ids": [
+            53,
+            18
+        ]
+    },
+    {
+        "id": 878607,
+        "title": "An Unfinished Film",
+        "release_date": "2024-10-23",
+        "popularity": 26.596,
+        "overview": "In January 2020, director Xiaorui convinces his cast and crew to resume the shooting of a film halted a decade earlier. With the shoot almost complete, rumors regarding an illness begin to circulate. Some cast and crew manage to leave before the hotel is put on lockdown. Everyone remaining is confined to their rooms, and the director must decide whether to halt filming once more as Wuhan is shut down in the early days of a terrifying pandemic.",
+        "vote_average": 7.5,
+        "vote_count": 3,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1078249,
+        "title": "Boundless",
+        "release_date": "2024-02-01",
+        "popularity": 22.853,
+        "overview": "In a moment of cowardice, Detective Carl Mørck sends Rose, his junior colleague in Department Q, to the remote Danish island of Bornholm to answer his old colleague Christian Habersaat's repeated requests. But during his forced retirement ceremony Christian kills himself sending Rose into a journey deep into her own traumatic past. Later, Department Q are embroiled into an old cold case of a girl found dead hanging in a tree.",
+        "vote_average": 5.9,
+        "vote_count": 28,
+        "genre_ids": [
+            53,
+            80
+        ]
+    },
+    {
+        "id": 1144681,
+        "title": "Armand",
+        "release_date": "2024-09-27",
+        "popularity": 15.246,
+        "overview": "Armand, a 6-year-old boy, is accused of crossing boundaries against his best friend at elementary school. While no one knows what actually happened between the two boys, the incident triggers a series of events, forcing parents and school staff into a captivating battle of redemption where madness, desire and obsession arise.",
+        "vote_average": 7.2,
+        "vote_count": 12,
+        "genre_ids": [
+            18,
+            53
+        ]
+    },
+    {
+        "id": 979097,
+        "title": "Memory",
+        "release_date": "2023-12-22",
+        "popularity": 22.225,
+        "overview": "Sylvia is a social worker who leads a simple and structured life: her daughter, her job, her AA meetings. This is blown open when Saul follows her home from their high school reunion. Their surprise encounter will profoundly impact both of them as they open the door to the past.",
+        "vote_average": 7.2,
+        "vote_count": 143,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1033023,
+        "title": "Nobody Likes Me",
+        "release_date": "2025-01-09",
+        "popularity": 15.992,
+        "overview": "Sara is an attractive 29-year-old single woman. She works as a secretary at the army headquarters in Prague. Although strong young men constantly surround her, she has not found a partner yet, probably due to her authoritarian mother. Yet Sara enjoys solitude and has come to terms with her position as a detached observer of other people´s lives. She is fascinated when she meets the gallant, graceful, and soft-faced Martin. Gradually, their connection grows, but when Sara wants to take their relationship to a deeper and more physical level, Martin shies away. He is hiding a deep secret. Refusing to accept his unwillingness to open up to her, Sara compels him to expose himself, and when he finally does, it turns out he is intersex, a hermaphrodite. Sara’s love remains strong, but when she unintentionally reveals Martin’s secret to her family, she discovers that her joy at the relationship has blinded her to the reality of how society deals with “freaks.”",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1216452,
+        "title": "Lucky Winners",
+        "release_date": "2024-03-13",
+        "popularity": 20.403,
+        "overview": "After winning the lottery, the life of the happy winner turns into a nightmare. The movie consists of four separate stories divided into five parts. They tell the different stages of the winner's life, from discovering the reward to witnessing the consequences caused by the prize.",
+        "vote_average": 5.832,
+        "vote_count": 170,
+        "genre_ids": [
+            35
+        ]
+    },
+    {
+        "id": 1032472,
+        "title": "Touch",
+        "release_date": "2024-05-29",
+        "popularity": 21.66,
+        "overview": "Soon after the break of the pandemic and realizing that his clock is ticking, Kristofer gets the urge to embark on a journey to try to find out what really happened when his Japanese girlfriend mysteriously vanished without a trace from London fifty years earlier.",
+        "vote_average": 7.5,
+        "vote_count": 58,
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1249289,
+        "title": "Alarum",
+        "release_date": "2025-01-16",
+        "popularity": 24.482,
+        "overview": "After the CIA discovers the whereabouts of two rogue spies, who have not only gone off-grid but have become husband and wife, all hell is unleashed on their winter honeymoon cabin resort in the woods by a consortium of international spy organizations who are after a ‘flight pill’, aka a hard drive, and all of whom suspect the two may have joined a network of rogue spies known as the Alarum.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ]
+    },
+    {
+        "id": 1026227,
+        "title": "There's Still Tomorrow",
+        "release_date": "2023-10-26",
+        "popularity": 17.13,
+        "overview": "In this moving comedic drama set in postwar Rome, a working-class woman dreams of a better future for herself and her daughter while facing abuse at the hands of her domineering husband. When a mysterious letter arrives, she discovers the courage to change the circumstances of her life. An Italian box office phenomenon and winner of six Italian Academy Awards.",
+        "vote_average": 8.1,
+        "vote_count": 1271,
+        "genre_ids": [
+            18,
+            35,
+            10752,
+            36
+        ]
+    },
+    {
+        "id": 884184,
+        "title": "Consecration",
+        "release_date": "2023-02-09",
+        "popularity": 19.516,
+        "overview": "After the alleged suicide of her priest brother, Grace travels to the remote Scottish convent where he fell to his death. Distrusting the Church's account, she uncovers murder, sacrilege and a disturbing truth about herself.",
+        "vote_average": 5.6,
+        "vote_count": 156,
+        "genre_ids": [
+            27,
+            53
+        ]
+    },
+    {
+        "id": 667717,
+        "title": "Deep Sea",
+        "release_date": "2023-01-22",
+        "popularity": 14.957,
+        "overview": "Shenxiu has felt a deep sadness since her mother left. A storm plunges her into a dreamlike world of swirling colour. Led by the Hyjinx, and joined by inventive underwater chef Nanhe, she embarks on a quest to find solace in the Eye of the Deep Sea.",
+        "vote_average": 7.0,
+        "vote_count": 110,
+        "genre_ids": [
+            16,
+            12,
+            18,
+            14,
+            9648
+        ]
+    },
+    {
+        "id": 1232827,
+        "title": "The Girl with the Needle",
+        "release_date": "2024-09-06",
+        "popularity": 19.289,
+        "overview": "Karoline, a young factory worker, finds herself abandoned and pregnant while striving to climb out of poverty in post WWI Copenhagen. Amidst her struggles, she meets Dagmar, a charismatic woman running a hidden adoption agency within a candy store, helping poor mothers in finding foster homes for their unwanted children.",
+        "vote_average": 7.4,
+        "vote_count": 7,
+        "genre_ids": [
+            18,
+            36,
+            53
+        ]
+    },
+    {
+        "id": 870360,
+        "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+        "release_date": "2024-02-28",
+        "popularity": 19.228,
+        "overview": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)...that is if they don't drive each other crazy in the process.",
+        "vote_average": 7.9,
+        "vote_count": 18,
+        "genre_ids": [
+            16,
+            35,
+            878
+        ]
+    },
+    {
+        "id": 34067,
+        "title": "Pokémon: Lucario and the Mystery of Mew",
+        "release_date": "2005-07-16",
+        "popularity": 15.579,
+        "overview": "In the legendary past, before Poké Balls were invented, an aura-guiding hero Pokémon named Lucario sensed two groups of armies about to clash, and a threat of a massive war in front of Oldoran Castle in Kanto that would leave no survivors. He transferred this message to his master, the legendary hero Arlon, while he was being attacked by a violent group of Hellgar. During the battle, his sense of sight was lost and he was rendered unable to see. He used the detection of his Aura, and so with the offensive Wave Bomb, he eliminated them. Though by the threat, the queen of Rota, Lady Rin was resolute to die with her civilians, and so Arlon made a choice.",
+        "vote_average": 7.0,
+        "vote_count": 297,
+        "genre_ids": [
+            10751,
+            12,
+            16,
+            14,
+            28,
+            878
+        ]
+    },
+    {
+        "id": 1226141,
+        "title": "The Last Dance",
+        "release_date": "2024-11-09",
+        "popularity": 15.935,
+        "overview": "A debt-ridden wedding planner inadvertently becomes a successful funeral planner. However, he must convince a traditional Taoist priest of his legitimacy to continue operating in the field.",
+        "vote_average": 8.1,
+        "vote_count": 19,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1000438,
+        "title": "Emergency",
+        "release_date": "2025-01-17",
+        "popularity": 15.839,
+        "overview": "Based on true events that unfolded in 1975, the film chronicles incidents that took place under the leadership of Indira Gandhi, one of the most powerful women in Indian history.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1026880,
+        "title": "Irena's Vow",
+        "release_date": "2024-04-15",
+        "popularity": 20.127,
+        "overview": "19 year old Irena Gut is promoted to housekeeper in the home of a highly respected Nazi officer in Poland when she finds out that the Jewish ghetto is about to be liquidated. Determined to help twelve Jewish workers, she decides to shelter them in the safest place she can think of – the basement of the German Major's house. Over the next eight months, Irena uses her wit, humour and immense courage to hide her friends as long as possible.",
+        "vote_average": 7.596,
+        "vote_count": 52,
+        "genre_ids": [
+            10752,
+            18
+        ]
+    },
+    {
+        "id": 1084145,
+        "title": "Hammarskjöld: Fight for Peace",
+        "release_date": "2023-12-25",
+        "popularity": 15.858,
+        "overview": "A speculative biopic about Swedish UN Secretary-General Dag Hammarskjöld, the anti-colonialist, allegedly queer diplomat who died under mysterious circumstances during the Cold War while trying to bring peace to the Congo.",
+        "vote_average": 6.7,
+        "vote_count": 19,
+        "genre_ids": [
+            53,
+            18,
+            36
+        ]
+    },
+    {
+        "id": 943134,
+        "title": "The Animal Kingdom",
+        "release_date": "2023-10-04",
+        "popularity": 23.734,
+        "overview": "In a world hit by a wave of mutations transforming humans into animals, François does everything he can to save his wife. As some of the creatures disappear into a nearby forest, he and their son Émile embark on a quest that will change their lives forever.",
+        "vote_average": 7.033,
+        "vote_count": 721,
+        "genre_ids": [
+            12,
+            18,
+            878
+        ]
+    },
+    {
+        "id": 1187417,
+        "title": "Rumours",
+        "release_date": "2024-10-18",
+        "popularity": 17.398,
+        "overview": "En route to the annual G7 summit, the seven leaders of the world’s wealthiest liberal democracies get lost in the woods and face increasing peril while attempting to draft a provisional statement regarding a global crisis.",
+        "vote_average": 4.9,
+        "vote_count": 41,
+        "genre_ids": [
+            35,
+            27
+        ]
+    },
+    {
+        "id": 9696,
+        "title": "Ichi the Killer",
+        "release_date": "2001-12-22",
+        "popularity": 20.169,
+        "overview": "As sadomasochistic yakuza enforcer Kakihara searches for his missing boss he comes across Ichi, a repressed and psychotic killer who may be able to inflict levels of pain that Kakihara has only dreamed of.",
+        "vote_average": 7.015,
+        "vote_count": 978,
+        "genre_ids": [
+            28,
+            80,
+            27
+        ]
+    },
+    {
+        "id": 850439,
+        "title": "The Damned",
+        "release_date": "2025-01-03",
+        "popularity": 18.091,
+        "overview": "A 19th-century widow is tasked with making an impossible choice when, during an especially cruel winter, a ship sinks off the coast of her impoverished Icelandic fishing village. Any attempt to rescue survivors risks further depleting the starving villagers’ supplies.",
+        "vote_average": 6.6,
+        "vote_count": 7,
+        "genre_ids": [
+            18,
+            27,
+            9648
+        ]
+    },
+    {
+        "id": 11681,
+        "title": "The Two Missionaries",
+        "release_date": "1974-12-21",
+        "popularity": 24.515,
+        "overview": "Two missionaries come into conflict with the authorities when they turn their missionary into a parrot farm. The Bishop of Maracaibo calls them his 'black sheep' and the Monsignore has been called to check on their behavior. Like usual, our heroes help the poor to defend themselves and provoke some funny fist fights in the process.",
+        "vote_average": 6.5,
+        "vote_count": 260,
+        "genre_ids": [
+            28,
+            12,
+            35
+        ]
+    },
+    {
+        "id": 1232493,
+        "title": "No Other Land",
+        "release_date": "2024-11-01",
+        "popularity": 18.448,
+        "overview": "This film made by a Palestinian-Israeli collective shows the destruction of the occupied West Bank's Masafer Yatta by Israeli soldiers and the alliance which develops between the Palestinian activist Basel and Israeli journalist Yuval.",
+        "vote_average": 7.8,
+        "vote_count": 19,
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1013154,
+        "title": "Hard Truths",
+        "release_date": "2024-12-06",
+        "popularity": 11.758,
+        "overview": "Pansy is a woman tormented by anger and depression, hypersensitive to the slightest possible offence and ever ready to fly off the handle. She criticises her husband and their adult son so relentlessly that neither bothers to argue with her. She picks fights with strangers and sales clerks and enumerates the world's countless flaws to anyone who will listen, especially her cheerful sister Chantelle, who, despite their clashing temperaments, might be the only person still capable of sympathising with her.",
+        "vote_average": 6.8,
+        "vote_count": 4,
+        "genre_ids": [
+            18,
+            35
+        ]
+    },
+    {
+        "id": 881366,
+        "title": "The End",
+        "release_date": "2024-12-06",
+        "popularity": 23.755,
+        "overview": "Twenty-five years after environmental collapse left the Earth uninhabitable, Mother, Father and Son are confined to their palatial bunker, where they struggle to maintain hope and a sense of normalcy by clinging to the rituals of daily life—until the arrival of a stranger, Girl, upends their happy routine. As tensions rise, their seemingly idyllic existence starts to crumble.",
+        "vote_average": 6.0,
+        "vote_count": 6,
+        "genre_ids": [
+            18,
+            14,
+            878
+        ]
+    },
+    {
+        "id": 1000862,
+        "title": "The Good Teacher",
+        "release_date": "2024-03-27",
+        "popularity": 12.568,
+        "overview": "Julien, a young teacher, is wrongfully accused of sexual misconduct by a teenage girl from his class. As he faces mounting pressures from the girl’s older brother and her classmates, the situation spirals out of control. Allegations spread, the entire school is thrown into turmoil, and the teacher has to fight to clear his name.",
+        "vote_average": 6.403,
+        "vote_count": 233,
+        "genre_ids": [
+            18,
+            53
+        ]
+    },
+    {
+        "id": 1234591,
+        "title": "My Favourite Cake",
+        "release_date": "2024-07-11",
+        "popularity": 16.182,
+        "overview": "Mahin lives alone in Tehran since her husband’s death and her daughter’s departure for Europe, until an afternoon tea with friends leads her to break her solitary routine and revitalize her love life.",
+        "vote_average": 7.3,
+        "vote_count": 29,
+        "genre_ids": [
+            18,
+            35,
+            10749
+        ]
+    },
+    {
+        "id": 1094319,
+        "title": "The Best Man",
+        "release_date": "2023-04-21",
+        "popularity": 16.463,
+        "overview": "Mercenaries seize control of a remote resort hotel during a wedding and it's up to the best man, the groom and their drunken best friend to stop the terrorists and save the hostages.",
+        "vote_average": 6.018,
+        "vote_count": 113,
+        "genre_ids": [
+            28,
+            53
+        ]
+    },
+    {
+        "id": 1224993,
+        "title": "Dark Nuns",
+        "release_date": "2025-01-24",
+        "popularity": 12.033,
+        "overview": "Desperation drives two nuns to perform an exorcism no nun should attempt. With a possessed child at the mercy of evil and the opposition of the Catholic Church, they take on the dangerous forbidden rituals themselves, putting their immortal souls in grave danger. They must confront the terrifying cost of their sacrilegious actions, but one goal remains: the boy must be saved at all costs.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            53,
+            27,
+            9648
+        ]
+    },
+    {
+        "id": 947938,
+        "title": "Dolphin Boy",
+        "release_date": "2022-04-07",
+        "popularity": 17.534,
+        "overview": "When a plane crashes at sea, dolphins rescue a little boy and raise him as family. He lives a carefree life beneath the waves until an evil monster seizes power over the underwater world. Banished to dry land, the boy is taken in by a kind-hearted captain. With his new companion's help, the boy embarks on a journey to solve the mystery of his true identity.",
+        "vote_average": 6.5,
+        "vote_count": 73,
+        "genre_ids": [
+            16,
+            12,
+            14,
+            35
+        ]
+    },
+    {
+        "id": 1280672,
+        "title": "One of Them Days",
+        "release_date": "2025-01-17",
+        "popularity": 21.469,
+        "overview": "Best friends and roommates Dreux and Alyssa are about to have One of Them Days. When they discover Alyssa’s boyfriend has blown their rent money, the duo finds themselves going to extremes in a comical race against the clock to avoid eviction and keep their friendship intact.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            35
+        ]
+    },
+    {
+        "id": 1231035,
+        "title": "Gloria!",
+        "release_date": "2024-04-11",
+        "popularity": 16.629,
+        "overview": "In late 18th century Venice, in a convent school for girls, Teresa, a student with prophetic gifts, joins forces with some amazing music-makers. They create a new kind of pop, bright and bold, and challenge the ancient and rigid system.",
+        "vote_average": 6.9,
+        "vote_count": 67,
+        "genre_ids": [
+            18,
+            10402
+        ]
+    },
+    {
+        "id": 1056648,
+        "title": "Dog on Trial",
+        "release_date": "2024-09-11",
+        "popularity": 21.349,
+        "overview": "April, an idealistic lawyer dedicated to lost causes, agrees to defend Cosmos, a dog that has bitten three people, leading to the first canine trial. She has no choice but to win the case, as otherwise, her unusual client will be put down.",
+        "vote_average": 6.1,
+        "vote_count": 25,
+        "genre_ids": [
+            35
+        ]
+    },
+    {
+        "id": 881415,
+        "title": "Love Me",
+        "release_date": "2025-01-31",
+        "popularity": 12.533,
+        "overview": "In a story that spans billions of years, a buoy and a satellite meet online long after humanity’s extinction. As they learn what life was like on Earth, they discover themselves and what it means to be alive and in love.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            878,
+            18,
+            10749
+        ]
+    },
+    {
+        "id": 1411695,
+        "title": "Halimuyak",
+        "release_date": "2025-01-17",
+        "popularity": 20.664,
+        "overview": "Mikee finally found love after years of misery, in the form of Divine, a stunning perfumer. But when a haunting scent from Divine’s past ties to the most painful chapter of Mikee’s life, can love survive when the truth threatens to destroy everything?",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 890366,
+        "title": "Fragments of Ice",
+        "release_date": "2025-01-09",
+        "popularity": 9.526,
+        "overview": "The director’s father, Soviet figure skating star, went on tours to the imaginary West and filmed his life in the transition period of the 80s and 90s. Rediscovering his amateur VHS archive, a director explores his vision of paradise against the changing historical background. 15 videotapes, the spirit of traveling to the West. The birth of a daughter. The collapse of the USSR. Fragments of Ice is a journey of growing-up for society, for the father, and for the daughter. A journey that is ongoing.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1101256,
+        "title": "Dahomey",
+        "release_date": "2024-09-11",
+        "popularity": 15.829,
+        "overview": "Thousands of royal artifacts of Dahomey, a West African kingdom, were taken by French colonists in the 19th century for collection and display in Paris. Centuries later, a fraction returned to their home in modern-day Benin. This dramatized documentary follows the journey of 26 of the treasures as told by cultural art historians, embattled university students, and one of the repatriated statues himself.",
+        "vote_average": 6.7,
+        "vote_count": 35,
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "id": 1030588,
+        "title": "Ghost Cat Anzu",
+        "release_date": "2024-07-19",
+        "popularity": 11.732,
+        "overview": "Precocious tween Karin finds herself abandoned by her father in rural Japan. Living in a temple with her grandfather, she meets Anzu, a giant \"ghost cat\" and notorious layabout tasked with looking after her. Distrustful of her new guardian, Karin sabotages Anzu's odd jobs for the townsfolk and befriends the eccentric local forest spirits. In an effort to win Karin over, Anzu accidentally makes a deal with the devil, and all Hell breaks loose.",
+        "vote_average": 6.8,
+        "vote_count": 11,
+        "genre_ids": [
+            16,
+            14,
+            35,
+            18,
+            10751
+        ]
+    },
+    {
+        "id": 1000866,
+        "title": "The Marching Band",
+        "release_date": "2024-11-27",
+        "popularity": 18.959,
+        "overview": "Diagnosed with leukemia, a successful orchestra conductor learns that he is adopted, and his younger brother is in a village marching band. The conductor decides to help them win a regional contest.",
+        "vote_average": 7.438,
+        "vote_count": 136,
+        "genre_ids": [
+            35,
+            18,
+            10402
+        ]
+    },
+    {
+        "id": 1078600,
+        "title": "Marked Men",
+        "release_date": "2025-01-22",
+        "popularity": 13.049,
+        "overview": "Shaw Landon has loved Rule Archer from the moment she laid eyes on him. Rule, a fiery-tempered rebel tattoo artist, doesn’t have time for a good girl pre-med student like Shaw – even if she’s the only one who can see the person he truly is. She lives by other people’s rules; he makes his own. But a short skirt, too many birthday cocktails, and spilled secrets lead to a night neither can forget. Now, Shaw and Rule must figure out how a girl like her and a guy like him are supposed to be together without destroying their love…or each other.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            10749
+        ]
+    },
+    {
+        "id": 658224,
+        "title": "The Wizard of the Emerald City, Part 1",
+        "release_date": "2025-01-01",
+        "popularity": 13.381,
+        "overview": "Ellie lives in a distant city. One day, the evil witch Gingema conjured a hurricane that took Ellie and her dog Totoshka to the country of the Munchkins. To return home, Ellie and her friends the Scarecrow, the Tin Woodman and the Cowardly Lion will set off along the yellow brick road to the Emerald City in search of the Wizard who will grant their cherished wishes.",
+        "vote_average": 8.0,
+        "vote_count": 2,
+        "genre_ids": [
+            18,
+            14
+        ]
+    },
+    {
+        "id": 1048522,
+        "title": "Fremont",
+        "release_date": "2023-08-25",
+        "popularity": 15.35,
+        "overview": "Donya, a lonely Afghan refugee and former translator, spends her twenties drifting through a meager existence in Fremont, California. Shuttling between her job writing fortunes for a fortune cookie factory and sessions with her eccentric therapist, Donya suffers from insomnia and survivor's guilt over those still left behind in Kabul as she desperately searches for love.",
+        "vote_average": 6.455,
+        "vote_count": 77,
+        "genre_ids": [
+            35,
+            18
+        ]
+    },
+    {
+        "id": 1303162,
+        "title": "Cells at Work!",
+        "release_date": "2024-12-13",
+        "popularity": 11.166,
+        "overview": "The smallest protagonist in film history - a human cell! There are a staggering 37 trillion cells in the human body. Red blood cells that carry oxygen, white blood cells that fight bacteria, and countless other cells work tirelessly day and night to protect your health and life. The film will also focus on daughter and father, Niko and Shigeru as they both live different lifestyles, and as their lively days go on, pathogens start to sneak up on their bodies. The most epic battle in the history of human cells, with the future of Niko and Shigeru at stake, is about to begin!",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            28,
+            12,
+            35,
+            14
+        ]
+    },
+    {
+        "id": 1223799,
+        "title": "The Corpse Washer",
+        "release_date": "2024-02-22",
+        "popularity": 15.958,
+        "overview": "Lela, a mortician, finds something odd about the body of her mother who died suddenly. Trapped in sacred tension and a tense horror journey, Lela discovers another oddity in the body of the corpse she was bathing.",
+        "vote_average": 6.9,
+        "vote_count": 14,
+        "genre_ids": [
+            27,
+            18,
+            53
+        ]
+    },
+    {
+        "id": 1297860,
+        "title": "Inheritance",
+        "release_date": "2025-01-24",
+        "popularity": 7.871,
+        "overview": "When Maya learns her father Sam was once a spy, she suddenly finds herself at the center of an international conspiracy.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            53
+        ]
+    },
+    {
+        "id": 1056444,
+        "title": "The Colors Within",
+        "release_date": "2024-08-30",
+        "popularity": 12.675,
+        "overview": "Totsuko is a high school student with the ability to see the 'colors' of others. Colors of bliss, excitement, and serenity, plus a color she treasures as her favorite. Kimi, a classmate at her school, gives off the most beautiful color of all. Although she doesn't play an instrument, Totsuko forms a band with Kimi and Rui, a quiet music enthusiast they meet at a used bookstore in a far corner of town. As they practice at an old church on a remote island, music brings them together, forming friendships and stirring affections.",
+        "vote_average": 6.3,
+        "vote_count": 3,
+        "genre_ids": [
+            16,
+            18,
+            10402
+        ]
+    },
+    {
+        "id": 1302151,
+        "title": "Gift Registry",
+        "release_date": "2025-01-16",
+        "popularity": 16.194,
+        "overview": "Nicolás and Antonia, lifelong friends, feel stuck as they watch their peers find success and stability. Tired of attending countless weddings that highlight their own struggles, they hatch a wild plan: pretend to be in love, get married, and throw a lavish wedding to cash in on the gifts. Antonia plans to ditch Nicolás at the altar, believing the scandal will let them keep the money. They see this as their ticket to finally funding their dreams.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            35
+        ]
+    },
+    {
+        "id": 1278162,
+        "title": "Panor",
+        "release_date": "2025-01-16",
+        "popularity": 13.17,
+        "overview": "Panor, a young virgin, was born on the day when someone in the village performed a ritual to release black magic. Everyone despised her and accused her of being a bad omen. Anyone who was near her would suffer harm from black magic.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            27,
+            53
+        ]
+    },
+    {
+        "id": 1410082,
+        "title": "Sniper: The Last Stand",
+        "release_date": "2025-01-21",
+        "popularity": 13.58,
+        "overview": "To stop an arms dealer from unleashing a deadly superweapon, Ace sniper Brandon Beckett and Agent Zero are deployed to Costa Verde to lead a group of elite soldiers against an unrelenting militia. Taking an untested sniper under his wing, Beckett faces his newest challenge: giving orders instead of receiving them. With both time and ammo running low in a race to save humanity, the team must overcome all odds just to survive.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            28,
+            53
+        ]
+    },
+    {
+        "id": 1361952,
+        "title": "Green and Gold",
+        "release_date": "2025-01-31",
+        "popularity": 10.384,
+        "overview": "With American farms disappearing, a fourth-generation dairy farmer and his granddaughter fight to preserve their way of life. Facing foreclosure, they wager everything on their beloved Green Bay Packers in a Hail-Mary effort to save their little chunk of dirt.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1367010,
+        "title": "2nd Miracle in Cell No. 7",
+        "release_date": "2024-12-25",
+        "popularity": 10.296,
+        "overview": "Two years after Dodo's father was sentenced to death, Kartika lived with Hendro and Linda while still secretly brought to meet the prisoners in cell no. 7. Everyone agreed to keep the fact that Dodo's father had passed away was a secret. When Hendro agreed to adopt Kartika, the Head of the Social Services Department intervened, and the prisoners in cell no. 7, along with Hendro, decided to fight back in their own way to seek justice.",
+        "vote_average": 7.8,
+        "vote_count": 4,
+        "genre_ids": [
+            18,
+            35,
+            10751
+        ]
+    },
+    {
+        "id": 970947,
+        "title": "The Shrouds",
+        "release_date": "2025-01-29",
+        "popularity": 11.987,
+        "overview": "Inconsolable since the death of his wife, Karsh, a prominent businessman, invents a revolutionary and controversial technology that enables the living to monitor their dear departed in their shrouds. One night, multiple graves, including that of Karsh’s wife, are desecrated, and he sets out to track down the perpetrators.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 1241894,
+        "title": "Woodwalkers",
+        "release_date": "2024-10-17",
+        "popularity": 13.958,
+        "overview": "Humans who can shapeshift into animals struggle to integrate with others without giving away their special abilities. As a group, they strive to inform and institute change in the world perspective of deforestation and the importance of natural habitats. However, when that can’t happen, they are forced to take matters into their own hands.",
+        "vote_average": 7.2,
+        "vote_count": 6,
+        "genre_ids": [
+            10751,
+            14
+        ]
+    },
+    {
+        "id": 970947,
+        "title": "The Shrouds",
+        "release_date": "2025-01-29",
+        "popularity": 11.987,
+        "overview": "Inconsolable since the death of his wife, Karsh, a prominent businessman, invents a revolutionary and controversial technology that enables the living to monitor their dear departed in their shrouds. One night, multiple graves, including that of Karsh’s wife, are desecrated, and he sets out to track down the perpetrators.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18,
+            878,
+            53
+        ]
+    },
+    {
+        "id": 1241894,
+        "title": "Woodwalkers",
+        "release_date": "2024-10-17",
+        "popularity": 13.958,
+        "overview": "Humans who can shapeshift into animals struggle to integrate with others without giving away their special abilities. As a group, they strive to inform and institute change in the world perspective of deforestation and the importance of natural habitats. However, when that can’t happen, they are forced to take matters into their own hands.",
+        "vote_average": 7.2,
+        "vote_count": 6,
+        "genre_ids": [
+            10751,
+            14
+        ]
+    },
+    {
+        "id": 1276644,
+        "title": "And the Breadwinner Is...",
+        "release_date": "2025-01-02",
+        "popularity": 13.602,
+        "overview": "Bambi Salvador is a breadwinner working as an OFW based in Taiwan for her family back home. She then returns to her hometown expecting her dream house to be finished on her birthday. Instead, she returns to see their dilapidated house.",
+        "vote_average": 8.0,
+        "vote_count": 2,
+        "genre_ids": [
+            35,
+            10751,
+            18
+        ]
+    },
+    {
+        "id": 1205229,
+        "title": "Night of the Zoopocalypse",
+        "release_date": "2025-01-17",
+        "popularity": 8.81,
+        "overview": "A wolf and mountain lion team up when a meteor unleashes a virus turning zoo animals into zombies. They join forces with other survivors to rescue the zoo and stop the deranged mutant leader from spreading the virus.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            16,
+            35,
+            12,
+            878,
+            27
+        ]
+    },
+    {
+        "id": 996821,
+        "title": "You're Cordially Invited",
+        "release_date": "2025-01-28",
+        "popularity": 10.236,
+        "overview": "When two weddings are accidentally booked on the same day at the same venue, each bridal party is challenged with preserving their family's special moment.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            35
+        ]
+    },
+    {
+        "id": 740937,
+        "title": "Simone: Woman of the Century",
+        "release_date": "2022-10-12",
+        "popularity": 8.476,
+        "overview": "Simone Veil's life story through the pivotal events of Twentieth Century. Her childhood, her political battles, her tragedies. An intimate and epic portrait of an extraordinary woman who eminently challenged and transformed her era defending a humanist message still keenly relevant today.",
+        "vote_average": 8.0,
+        "vote_count": 328,
+        "genre_ids": [
+            18,
+            36
+        ]
+    },
+    {
+        "id": 645985,
+        "title": "Firefighters",
+        "release_date": "2024-12-04",
+        "popularity": 8.224,
+        "overview": "Even in the harshest environments, firefighters must focus on extinguishing fires and rescuing everyone there. At 3:47 AM on March 4, 2001, the 119 emergency call center receives a phone call about a fire that has broken out in the Hongje-dong neighborhood. Firefighters, including newcomer Cheol-woong, rush to the scene.",
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1293384,
+        "title": "Eva: Pendakian Terakhir",
+        "release_date": "2025-01-16",
+        "popularity": 14.999,
+        "overview": "Eva, experienced deep sadness after her mother passed away. Her boyfriend, Pasha, tried to console her by inviting her to climb mountain “A”. Together with Vicky and Nisa, they did the mountain “A” climbing, led by Joni. The adventure, which was initially fun, turned into horror. One by one, they experienced unreasonable and life-threatening events. It all started when Eva and Vicky violated the prohibition that Joni had previously conveyed during the climb.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            27,
+            12,
+            18
+        ]
+    },
+    {
+        "id": 1114894,
+        "title": "Star Trek: Section 31",
+        "release_date": "2025-01-24",
+        "popularity": 11.103,
+        "overview": "Emperor Philippa Georgiou joins a secret division of Starfleet tasked with protecting the United Federation of Planets and faces the sins of her past.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            878,
+            12
+        ]
+    },
+    {
+        "id": 1405188,
+        "title": "Raindrop",
+        "release_date": "2025-01-16",
+        "popularity": 9.256,
+        "overview": "A journey by water from the highest peaks of the Alps to the vastness of the ocean. Hardly any element on our planet is more important than water. Where there is water, life thrives. But only very few people know what wonderful creatures master their lives every day in their native habitats by the water. Far from our eyes, true dramas and glories happen every day. Stories that hardly anyone gets to see. Stories full of adventure, tragedy, comedy and even love.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": []
+    },
+    {
+        "id": 1288175,
+        "title": "Rider",
+        "release_date": "2024-12-10",
+        "popularity": 12.781,
+        "overview": "Nut, a young rider, got to know a beautiful girl named Pie by chance, but when Pie mysteriously disappeared, Nut and two other rider friends went out to find her.",
+        "vote_average": 2.0,
+        "vote_count": 1,
+        "genre_ids": [
+            27,
+            35
+        ]
+    },
+    {
+        "id": 857800,
+        "title": "Becoming Led Zeppelin",
+        "release_date": "2025-02-05",
+        "popularity": 15.327,
+        "overview": "The individual journeys of the four members of the band, as they move through the music scene of the 1960s, playing small clubs throughout Britain and performing some of the biggest hits of the era, until their meeting in the summer of 1968 for a rehearsal that changes their lives forever.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            99,
+            10402
+        ]
+    },
+    {
+        "id": 1225572,
+        "title": "Screamboat",
+        "release_date": "2025-01-31",
+        "popularity": 8.149,
+        "overview": "A late-night boat ride turns into a desperate fight for survival in New York City when a mischievous mouse becomes a monstrous reality.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            27,
+            35
+        ]
+    },
+    {
+        "id": 842328,
+        "title": "Wish You Were Here",
+        "release_date": "2025-01-17",
+        "popularity": 8.365,
+        "overview": "Charlotte finds herself in a rut, searching for a spark that seems just out of reach. After she has a whirlwind night of romance and imagining a future with a man named Adam, he ghosts her. When Charlotte finally discovers that Adam is terminally ill, she helps him spend his last days living life to the fullest.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            10749,
+            18
+        ]
+    },
+    {
+        "id": 1001274,
+        "title": "Night Call",
+        "release_date": "2024-08-28",
+        "popularity": 6.936,
+        "overview": "Mady, a student, works as a locksmith by night. He helps Claire get into her apartment and soon realizes that she lied to him about her identity and robbed something that belonged to a dangerous man, Yannick. Mady gets embroiled in a manhunt and will have one night to prove his innocence.",
+        "vote_average": 6.914,
+        "vote_count": 58,
+        "genre_ids": [
+            28,
+            53
+        ]
+    },
+    {
+        "id": 1249423,
+        "title": "Black Dog",
+        "release_date": "2024-06-14",
+        "popularity": 9.725,
+        "overview": "On the edge of the Gobi desert in Northwest China, Lang returns to his hometown after being released from jail. While working for the local dog patrol team to clear the town of stray dogs before the Olympic Games, he strikes up an unlikely connection with a black dog. These two lonely souls embark on a journey together.",
+        "vote_average": 7.2,
+        "vote_count": 28,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1086495,
+        "title": "Taklee Genesis",
+        "release_date": "2024-09-12",
+        "popularity": 9.821,
+        "overview": "A time-travel adventure that takes place during the Cold War when a US military base in Thailand was testing the Taklee Genesis, a warp-speed teleporter even though it had not yet been fully developed. After the war, the Taklee Genesis was left behind in Thailand and was being illegally used by someone.",
+        "vote_average": 7.5,
+        "vote_count": 4,
+        "genre_ids": [
+            12,
+            878,
+            28,
+            14
+        ]
+    },
+    {
+        "id": 1235431,
+        "title": "Oshi no Ko -The Final Act-",
+        "release_date": "2024-12-20",
+        "popularity": 10.185,
+        "overview": "Goro is a gynecologist and idol fan who’s in shock after his favorite star, Ai, announces an impromptu hiatus. Little does Goro realize that he’s about to forge a bond with her that defies all common sense! Lies are an idol’s weapon!",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "genre_ids": [
+            18,
+            10402,
+            14,
+            9648,
+            53
+        ]
+    },
+    {
+        "id": 1288764,
+        "title": "Oscar Wilde About America",
+        "release_date": "2025-01-15",
+        "popularity": 11.063,
+        "overview": "This big-hearted romp from New York City to Hollywood, CA leads Oscar to the queer joy, love, and liberation that eluded him 141 years ago, with the attendant themes of diversity, identity, and inclusion beautifully expressed in the film's original song, \"Be Yourself, Everyone Else Is Taken\", based on one of Wilde's most popular quotes. Filmed in London and in multiple locations across the United States, the film stars West End star Oscar Conlon-Morrey as Oscar Wilde, and features film/TV/stage veterans Rosemary Harris and Kate Burton.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": []
+    },
+    {
+        "id": 1063738,
+        "title": "White River",
+        "release_date": "2025-01-15",
+        "popularity": 14.245,
+        "overview": "Yang Fan lives in Yanjiao, which is separated from Beijing by the White River, during the quarantine. Her routine is pretty simple, cooking, cleaning and trying to abide by the rules. Her husband on the other hand, seems to be entangled in a voyeuristic/masturbatory web, where a classic painting of a woman hanging on the wall of her bedroom plays a crucial role. The two of them have sex, but things become more complicated when Yang Fan also starts sleeping with the enigmatic waiter of a restaurant she frequents, who has the tendency to pee under a tree every night after he closes shop. Instead of fighting, the three embark on a threesome trip that soon starts involving other people.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 980477,
+        "title": "Ne Zha 2",
+        "release_date": "2025-01-29",
+        "popularity": 8.953,
+        "overview": "After a devastating battle, Nezha and Aobing’s bodies are destroyed, leaving their souls in limbo. Taiyi Zhenren, their wise mentor, reveals a prophecy about the seven-colored lotus, a mystical artifact capable of restoring their forms. To retrieve it, they must journey into the dangerous Realm of Chaos, a place of ancient beasts and powerful magic.  As they face perilous trials and confront their inner struggles, Nezha’s fiery nature and Aobing’s calm resolve are tested, forging an unbreakable bond. Their mission grows urgent as the cunning Demon King seeks the lotus for his dark ambitions. In a climactic battle, Nezha and Aobing unlock hidden powers, defeating the Demon King and restoring balance. Their journey becomes a tale of redemption, friendship, and a new era of harmony between mortals and the divine.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1038938,
+        "title": "Werewolf Game",
+        "release_date": "2025-01-21",
+        "popularity": 8.759,
+        "overview": "Twelve kidnapped strangers must play a game where they vote on who amongst them to murder. At night, the \"werewolves\" hidden among them come out to brutally kill one of the 12 \"villagers\" in return. The days repeat until one winning group remains.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            27,
+            9648,
+            53
+        ]
+    },
+    {
+        "id": 1179051,
+        "title": "Undercover Party Crasher",
+        "release_date": "2025-01-17",
+        "popularity": 14.055,
+        "overview": "In order to get evidence for her case and dismantle a criminal organization, an uptight undercover cop crashes a high school graduation trip to a party-heavy beach in Brazil.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            35,
+            28
+        ]
+    },
+    {
+        "id": 1113583,
+        "title": "Oh, Canada",
+        "release_date": "2024-12-06",
+        "popularity": 12.644,
+        "overview": "Famed Canadian-American leftist documentary filmmaker Leonard Fife was one of sixty thousand draft evaders and deserters who fled to Canada to avoid serving in Vietnam. Now in his late seventies, Fife is dying of cancer in Montreal and has agreed to a final interview in which he is determined to bare all his secrets at last, to demythologize his mythologized life.",
+        "vote_average": 5.4,
+        "vote_count": 12,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 988397,
+        "title": "Universal Language",
+        "release_date": "2024-12-18",
+        "popularity": 6.837,
+        "overview": "Winter. Somewhere between Tehran and Winnipeg. Negin and Nazgol find a sum of money frozen deep within the sidewalk ice and try to find a way to get it out. Massoud leads a group of befuddled tourists upon an increasingly-strange walking tour of Winnipeg historic sites. Matthew leaves his job at the Québec government and embarks upon a mysterious journey to visit his estranged mother.",
+        "vote_average": 6.2,
+        "vote_count": 2,
+        "genre_ids": [
+            18,
+            35
+        ]
+    },
+    {
+        "id": 1204889,
+        "title": "Crypto Man",
+        "release_date": "2025-01-15",
+        "popularity": 10.288,
+        "overview": "Ok-ja and her son Do-hyun falsely register in Daechi-dong, Seoul, for better schooling despite her limited finances. Do-hyun, envious of his wealthy schoolmate Sang-su for receiving disability benefits, learns that he isn't actually disabled, exposing flaws in government benefits. At university, he and his new friend Ji-woo manipulate government policies for entrepreneurial subsidies, intentionally failing to exploit government leniency. Seeking greater wealth, he embarks on a dubious cryptocurrency venture with investor Kevin, sidelining Ji-woo and enjoying brief success before their scheme crumbles due to regulatory scrutiny. They literally try to make bigger money with bigger money, but end up creating a Death Business.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18,
+            80
+        ]
+    },
+    {
+        "id": 1357305,
+        "title": "Detective Chinatown 1900",
+        "release_date": "2025-01-29",
+        "popularity": 6.887,
+        "overview": "In 1900's San Francisco, a white woman is murdered in Chinatown and the suspect is a Chinese man. The murder causes a social shock and the public calls for Chinatown to be outlawed. Chinese medicine practitioner Qin Fu and Chinese man Ah Gui are involved in the case, and they race against time to find the murderer amidst a battle of wits and courage.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            35,
+            9648,
+            28
+        ]
+    },
+    {
+        "id": 1288328,
+        "title": "The Illusion",
+        "release_date": "2025-01-16",
+        "popularity": 8.767,
+        "overview": "1860. Giuseppe Garibaldi began from Quarto the adventure of the Thousand surrounded by the enthusiasm of the young idealists who had come from all regions of Italy, and with his loyal group of officers, among whom a new profile stands out, that of Palermo Colonel Vincenzo Giordano Orsini. Among the many militiamen recruited were two Sicilians, Domenico Tricò, a farmer who had emigrated to the North, and Rosario Spitale, an illusionist. Having landed in Sicily, at Marsala, the Thousand begin fighting with the Bourbon army, whose numerical preponderance is immediately evident. Under these conditions, it appears almost impossible for the general to breach the enemy defense and penetrate Palermo. But when he is almost forced to retreat, Garibaldi devises an ingenious plan.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18,
+            35,
+            36
+        ]
+    },
+    {
+        "id": 1087593,
+        "title": "Another End",
+        "release_date": "2024-03-21",
+        "popularity": 8.116,
+        "overview": "Set in a near-future when a new technology exists that can put the consciousness of a dead person back into a living body, in an attempt to ease the grief of separation, providing a little extra time to say goodbye.",
+        "vote_average": 7.1,
+        "vote_count": 37,
+        "genre_ids": [
+            878,
+            18
+        ]
+    },
+    {
+        "id": 1185528,
+        "title": "The Legend of the Condor Heroes: The Great Hero",
+        "release_date": "2025-01-29",
+        "popularity": 8.625,
+        "overview": "Under Genghis Khan, the Mongolian army pushes west to destroy the Jin Dynasty, setting its sights on the Song Dynasty next. Amid internal conflicts among martial arts schools, Guo Jing unites the Central Plains' warriors to defend Xiangyang, embodying courage and loyalty in the fight for the nation.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            28,
+            12,
+            18,
+            36,
+            10749,
+            10752
+        ]
+    },
+    {
+        "id": 1082900,
+        "title": "Loveable",
+        "release_date": "2024-09-19",
+        "popularity": 7.449,
+        "overview": "Maria (40) strives to balance parenthood and a demanding career while her second husband, Sigmund, frequently travels for work. As the strain of competing needs takes its toll, their marriage begins to unravel.  Despite Maria’s desperate efforts to salvage their relationship, Sigmund eventually informs her of his desire for a divorce, forcing her to confront her deepest fears. This revelation propels her into a torrent of grief, anger, and unconscious memories from her own past.  Maria eventually realizes that part of the key to understanding her situation lies in her relationship with her own mother and her internal self-image. Through a deeper confrontation with her mother, she finally connects with herself in a way she never knew she lacked. When she meets her husband for a conversation, the pain of abandonment is no longer the same.",
+        "vote_average": 7.0,
+        "vote_count": 3,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1127143,
+        "title": "Mama",
+        "release_date": "2025-01-23",
+        "popularity": 9.516,
+        "overview": "Dinda, who had just graduated from elementary school, had to feel the loss of her mother, who she loved so much, because of a hit-and-run accident. In this unfortunate incident, Wahyu, Dinda's father, broke his leg. Dinda and her father returned to the family's old house to calm down and heal their wounds. But there is another figure that inhabits the house. A figure who expects the presence of a child, to accompany her solitude.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            27,
+            53,
+            18
+        ]
+    },
+    {
+        "id": 84092,
+        "title": "Ramayana: The Legend of Prince Rama",
+        "release_date": "1993-01-10",
+        "popularity": 9.37,
+        "overview": "In Ayodhya, the royal palace of Kosala Kingdom in Ancient India, four princes were born to three queens, each of whom grew to great stature. Banished for 14 years due to court intrigue, Prince Rama retreated to the forest with his beautiful wife Sita. When Rama vanquishes the demons of the forest, he invites the wrath of the demon king Ravana, who kidnaps Sita. Based on the Indian epic the Ramayana.",
+        "vote_average": 8.3,
+        "vote_count": 40,
+        "genre_ids": [
+            16,
+            14,
+            12
+        ]
+    },
+    {
+        "id": 1031731,
+        "title": "The Golden Voice",
+        "release_date": "2025-01-18",
+        "popularity": 9.294,
+        "overview": "A young street singer and a homeless veteran, both on a self-destructive path, battle dark times through friendship and music.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "id": 1285660,
+        "title": "Son of a Rich",
+        "release_date": "2024-12-20",
+        "popularity": 12.269,
+        "overview": "A Turkish remake of the blockbuster Russian comedy of the same name. A young man born into an oligarch family is so spoiled that he believes he's above the law. When he faces jail, his father decides to 'rehabilitate' his son. An abandoned village is reconstructed, 19th century style. The spoiled brat 'goes back in time', reincarnated as a serf, to learn how to appreciate life and to work hard.",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids": [
+            35,
+            10749,
+            28
+        ]
+    },
+    {
+        "id": 629078,
+        "title": "The Glassworker",
+        "release_date": "2024-07-26",
+        "popularity": 13.012,
+        "overview": "A young glassworker-in-training living with his pacifist father finds his apprenticeship upended by an impending war and the arrival of an army colonel to their seaside town.",
+        "vote_average": 8.0,
+        "vote_count": 2,
+        "genre_ids": [
+            16,
+            10751,
+            10749,
+            10752
+        ]
+    },
+    {
+        "id": 842859,
+        "title": "The Most Precious of Cargoes",
+        "release_date": "2024-11-20",
+        "popularity": 5.388,
+        "overview": "Once upon a time, a poor woodcutter and his wife lived in a great forest. Cold, hunger, poverty and a war raging all around them meant their lives were very hard.  One day, the woodcutter's wife rescues a baby. A baby girl thrown from one of the many trains that constantly pass through the forest.  This baby, this \"most precious of cargoes\", will transform the lives of the poor woodcutter's wife and her husband, as well as those whose paths the child will cross - including the man who threw her from the train. And some will try to protect her, whatever the cost.  Their story will reveal the worst and the best in the hearts of men.",
+        "vote_average": 7.6,
+        "vote_count": 62,
+        "genre_ids": [
+            16,
+            18,
+            36
+        ]
+    },
+    {
+        "id": 1094473,
+        "title": "Bambi, a Life in the Woods",
+        "release_date": "2024-10-16",
+        "popularity": 12.522,
+        "overview": "The life of Bambi, a male roe deer, from his birth through childhood, the loss of his mother, the finding of a mate, the lessons he learns from his father, and the experience he gains about the dangers posed by human hunters in the forest.",
+        "vote_average": 6.5,
+        "vote_count": 4,
+        "genre_ids": [
+            12,
+            10751
+        ]
+    },
+    {
+        "id": 885021,
+        "title": "The Little Alien",
+        "release_date": "2022-07-21",
+        "popularity": 10.706,
+        "overview": "It's the summer holiday, and Little Allan is home alone. But his older neighbor Helge will take care of him. Helge is fascinated by space, and it doesn't take long before Little Allan is pulled into Helge's plan to get in contact with aliens.",
+        "vote_average": 6.9,
+        "vote_count": 37,
+        "genre_ids": [
+            16,
+            12,
+            10751
+        ]
+    },
+    {
+        "id": 676685,
+        "title": "Panda Bear in Africa",
+        "release_date": "2024-03-15",
+        "popularity": 7.889,
+        "overview": "A young adventurous panda travels from China to Africa to rescue his best friend, Jielong the Dragon, who has been kidnapped. On his journey, he discovers a strange amazing new world of mountains, deserts and jungles.",
+        "vote_average": 5.0,
+        "vote_count": 9,
+        "genre_ids": [
+            12,
+            16,
+            35,
+            10751
+        ]
+    }
+]

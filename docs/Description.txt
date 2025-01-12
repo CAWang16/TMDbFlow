@@ -1,0 +1,23 @@
+English:
+TMDbFlow Project – Data Engineering
+
+1. Designed and automated a full ETL pipeline using Apache Airflow for orchestration and Airbyte for data extraction from TMDb (The Movie Database).
+2. Implemented data transformation and analysis, including data cleaning, exploratory data analysis (EDA), and data warehousing.
+3. Developed custom Airbyte connectors and DAGs to extract and transform movie data, optimizing pipeline efficiency.
+4. Utilized Python, SQL, and Docker to manage workflows and deploy ETL processes.
+5. Enhanced project management and data automation skills through orchestration of complex workflows.
+6. Applied data visualization and reporting tools like Power BI to generate insights from movie datasets.
+7. Planned future integration of a sentiment analysis module to analyze movie reviews.
+Skills: Apache Airflow, Airbyte, Python, SQL, Docker, ETL, Data Transformation, Power BI, Data Warehousing, Data Visualization, Sentiment Analysis
+
+繁體中文:
+TMDbFlow 專案 – 數據工程
+
+1. 使用 Apache Airflow 進行流程編排，並透過 Airbyte 從 TMDb (電影資料庫) 自動化完整的 ETL 流程。
+2. 實施數據轉換與分析，包括數據清理、探索性數據分析 (EDA) 和數據倉儲。
+3. 開發自訂的 Airbyte 連接器和 DAG 來提取和轉換電影數據，優化流程效率。
+4. 利用 Python、SQL 和 Docker 來管理工作流並部署 ETL 過程。
+5. 透過複雜流程的自動化，提升專案管理與數據自動化能力。
+6. 計劃未來使用 Power BI 進行數據可視化與報表生成，挖掘電影數據集的洞察。
+7. 計劃未來整合 情緒分析模組 以分析電影評論。
+技能: Apache Airflow, Python, SQL, Docker, ETL, 數據轉換, Power BI, 數據倉儲, 數據可視化, 情緒分析

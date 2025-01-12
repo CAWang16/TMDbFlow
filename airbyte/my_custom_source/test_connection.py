@@ -1,4 +1,4 @@
-from source import SourceTmdbApi
+from airbyte.my_custom_source.dags.source import SourceTmdbApi
 from dotenv import load_dotenv
 import os
 

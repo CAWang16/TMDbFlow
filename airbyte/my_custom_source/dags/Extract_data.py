@@ -11,6 +11,8 @@ import csv
 import time
 import json
 
+
+
 # ---- Load Environment Variables ----
 load_dotenv()
 
@@ -22,6 +24,9 @@ if not api_key:
 config = {
     "api_key": api_key
 }
+
+DATA_FOLDER = "./airbyte/my_custom_source/data"
+Path(DATA_FOLDER).mkdir(parents=True, exist_ok=True)
 
 # ---- Source Class ----
 class SourceTmdbApi(AbstractSource):
@@ -174,12 +179,20 @@ def save_to_csv(records: list, output_file: str):
         writer.writerows(clean_records)
         print(f"Saved {len(clean_records)} new records to {output_file}.")
 
-def save_raw_json(response_data, source_name):
-    # Create a separate JSON file for each source
-    filename = f"{source_name}.json"
-    with open(filename, "a", encoding="utf-8") as f:
-        json.dump(response_data, f, ensure_ascii=False, indent=4)
-        f.write("\n")  # Ensure new line to prevent JSONDecodeError
+def save_raw_json(records, source_name):
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    file_path = os.path.join(DATA_FOLDER, f"{source_name}_{current_date}.json")
+
+    # Only save if records exist
+    if not records:
+        print(f"No data found for {source_name}, skipping file creation.")
+        return
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(records, f, ensure_ascii=False, indent=4)
+    print(f"Saved {len(records)} records to {file_path}.")
+
+
 
 # ---- Connection Test Function ----
 def test_connection(source, config):
@@ -200,10 +213,12 @@ if __name__ == "__main__":
     if test_connection(source, config):
         for stream in source.streams(config):
             print(f"\nFetching data from {stream.name}...")
-            records = list(stream.read_records(sync_mode=SyncMode.full_refresh))
             
-            for record in records:
-                save_raw_json(record.data, stream.name)
+            # Aggregate all records for the stream
+            records = [record.data for record in stream.read_records(sync_mode=SyncMode.full_refresh)]
+
+            # Save records as a JSON array
+            save_raw_json(records, stream.name)
             
             # Save the latest fetched date
             if TmdbStream.last_fetched_date:
